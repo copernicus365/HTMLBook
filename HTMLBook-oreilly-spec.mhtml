@@ -1,0 +1,3442 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://oreillymedia.github.io/HTMLBook/#_audio
+Subject: HTMLBook
+Date: Fri, 10 Jan 2020 20:58:06 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----"
+
+
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/html
+Content-ID: <frame-A9307CBBD57959D74AB97AF5BD0473EB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://oreillymedia.github.io/HTMLBook/#_audio
+
+<!DOCTYPE html><html lang=3D"en" dir=3D"ltr"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-4a0118e1-4a80-4cfa-bb34-c0c286d47aea@mhtml=
+.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6776bd=
+8d-1f64-4f45-a9c9-51fa8a63f0a2@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-d20eb249-ec9f-45b1-8bb6-786db9ccebdd@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-683b3f26-=
+e553-46a0-a1e6-18dc9870d659@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-412eb6d0-0290-4f6d-bcd4-35dfc2c54b1b@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e6dd3216-f4d=
+0-41f9-8d44-0468922480f8@mhtml.blink" /><meta name=3D"viewport" content=3D"=
+width=3Ddevice-width, initial-scale=3D1, shrink-to-fit=3Dno"><link rel=3D"p=
+reconnect" crossorigin=3D"anonymous" href=3D"https://www.w3.org/" class=3D"=
+removeOnSave"><link rel=3D"preload" as=3D"script" href=3D"https://www.w3.or=
+g/scripts/TR/2016/fixup.js" class=3D"removeOnSave"><link rel=3D"preload" as=
+=3D"style" href=3D"https://www.w3.org/StyleSheets/TR/2016/base.css" class=
+=3D"removeOnSave"><link rel=3D"preload" as=3D"image" href=3D"https://www.w3=
+.org/StyleSheets/TR/2016/logos/W3C" class=3D"removeOnSave"><link rel=3D"sty=
+lesheet" href=3D"https://www.w3.org/StyleSheets/TR/2016/base.css" class=3D"=
+removeOnSave">
+    <title>HTMLBook</title>
+   =20
+   =20
+   =20
+   =20
+  <link rel=3D"dns-prefetch" crossorigin=3D"anonymous" href=3D"https://spec=
+ref.herokuapp.com/" class=3D"removeOnSave"><link rel=3D"preconnect" crossor=
+igin=3D"anonymous" href=3D"https://respec.org/" class=3D"removeOnSave"><lin=
+k rel=3D"preload" as=3D"script" href=3D"https://www.w3.org/Tools/respec/res=
+pec-highlight.js" class=3D"removeOnSave"><link rel=3D"stylesheet" href=3D"h=
+ttps://www.w3.org/StyleSheets/TR/2016/W3C-UD"><meta name=3D"description" co=
+ntent=3D"Let=E2=80=99s write books in HTML! HTMLBook is an open, XHTML5-bas=
+ed standard for the authoring and production of both print and digital book=
+s. HTMLBook is built on the following premises:"></head>
+  <body class=3D"h-entry informative toc-sidebar"><p id=3D"toc-nav"><a id=
+=3D"toc-jump" href=3D"http://oreillymedia.github.io/HTMLBook/#toc"><span ar=
+ia-hidden=3D"true">=E2=86=91</span> <span>Jump to Table of Contents</span><=
+/a><a id=3D"toc-toggle" href=3D"http://oreillymedia.github.io/HTMLBook/#toc=
+"><span aria-hidden=3D"true">=E2=86=90</span> <span>Collapse Sidebar</span>=
+</a></p><div id=3D"respec-ui" class=3D"removeOnSave"><button id=3D"respec-p=
+ill" aria-controls=3D"respec-menu" aria-expanded=3D"false" aria-haspopup=3D=
+"true" aria-label=3D"ReSpec Menu">ReSpec</button><button class=3D"respec-in=
+fo-button" id=3D"respec-pill-warning" aria-expanded=3D"false" aria-haspopup=
+=3D"true" aria-controls=3D"respec-pill-warning-modal" aria-label=3D"1 ReSpe=
+c Warning">1</button></div><div class=3D"head">
+      <!---0.860764%--> <h1 id=3D"title" class=3D"title p-name">HTMLBook</h=
+1><!---0.860764%-->
+      <!---0.860764%-->
+      <h2>
+        <!---0.860764%-->Unofficial Draft<!---0.860764%-->
+        <time class=3D"dt-published" datetime=3D"2016-02-16">16 February 20=
+16<!---0.860764%--></time>
+      </h2>
+      <dl>
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <dt>Editor:<!---0.860764%--></dt>
+        <dd class=3D"p-author h-card vcard"><a class=3D"u-url url p-name fn=
+" href=3D"http://oreilly.com/">Sanders Kleinfeld<!---0.860764%--></a>
+            (<a class=3D"p-org org h-org h-card" href=3D"http://oreilly.com=
+/">O=E2=80=99Reilly Media, Inc<!---0.860764%--></a>)
+          <!---0.860764%--></dd><!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+        <!---0.860764%-->
+      </dl>
+      <!---0.860764%-->
+      <!---0.860764%-->
+      <!---0.860764%-->
+      <p class=3D"copyright">Copyright =C2=A9 2014 O=E2=80=99Reilly Media, =
+Inc.<!---0.860764%--></p><!---0.860764%-->
+      <hr title=3D"Separator for header">
+    </div>
+    <section id=3D"abstract" class=3D"introductory"><h2>Abstract</h2>
+      <p>Let=E2=80=99s write books in HTML! HTMLBook is an open, XHTML5-bas=
+ed standard for the authoring and production of both print and digital book=
+s. HTMLBook is built on the following premises:</p>
+      <ul>
+        <li>Books are timeless. The basic =E2=80=9Cbook=E2=80=9D structure =
+has persisted for hundreds of years and will continue to persist for our li=
+fetimes, be it in digital or print form.</li>
+        <li>HTML is the markup language of the world for the foreseeable fu=
+ture.</li>
+        <li>Single-source document processing will remain valuable for the =
+foreseeable future.</li>
+      </ul>
+      <p>As such, HTMLBook can be characterized in the following ways:</p>
+      <ul>
+        <li>HTMLBook is a subset of XHTML5. All HTMLBook is XHTML5, but not=
+ all XHTML5 is HTMLBook.</li>
+        <li>HTMLBook contains no additional elements or attributes outside =
+of the XHTML5 specification.</li>
+        <li>HTMLBook is semantically tailored to the structure of a book, i=
+ncluding more complex content used in technical and reference documents.</l=
+i>
+        <li>HTMLBook is defined with and can be validated against an XML sc=
+hema.</li>
+        <li>HTMLBook stylesheets are written in CSS.</li>
+      </ul>
+    </section>
+    <section id=3D"sotd" class=3D"introductory"><h2>Status of This Document=
+<!---0.860764%--></h2><!---0.860764%--><p>
+      This document is draft of a potential specification. It has no offici=
+al
+      standing of any kind and does not represent the support or consensus =
+of
+      any standards organization.
+    </p>
+    <!---0.860764%--><!---0.860764%--><!---0.860764%--><!---0.860764%--></s=
+ection><nav id=3D"toc"><h2 class=3D"introductory" id=3D"table-of-contents">=
+Table of Contents<!---0.860764%--></h2><ol class=3D"toc"><li class=3D"tocli=
+ne"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#no=
+tes-on-the-htmlbook-specification"><bdi class=3D"secno">1.<!---0.860764%-->=
+ </bdi>Notes on the HTMLBook Specification</a><!---0.860764%--></li><li cla=
+ss=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/H=
+TMLBook/#revision-history-and-notes"><bdi class=3D"secno">2.<!---0.860764%-=
+-> </bdi>Revision History and Notes</a><!---0.860764%--></li><li class=3D"t=
+ocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook=
+/#_book_component_elements"><bdi class=3D"secno">3.<!---0.860764%--> </bdi>=
+Book Component elements</a><!---0.860764%--><ol class=3D"toc"><li class=3D"=
+tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBoo=
+k/#_book"><bdi class=3D"secno">3.1<!---0.860764%--> </bdi>Book</a><!---0.86=
+0764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://orei=
+llymedia.github.io/HTMLBook/#_chapter"><bdi class=3D"secno">3.2<!---0.86076=
+4%--> </bdi>Chapter</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_appendix"><bd=
+i class=3D"secno">3.3<!---0.860764%--> </bdi>Appendix</a><!---0.860764%--><=
+/li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.=
+github.io/HTMLBook/#_bibliography"><bdi class=3D"secno">3.4<!---0.860764%--=
+> </bdi>Bibliography</a><!---0.860764%--></li><li class=3D"tocline"><a clas=
+s=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#glossary"><bd=
+i class=3D"secno">3.5<!---0.860764%--> </bdi>Glossary</a><!---0.860764%--><=
+/li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.=
+github.io/HTMLBook/#_preface"><bdi class=3D"secno">3.6<!---0.860764%--> </b=
+di>Preface</a><!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxr=
+ef" href=3D"http://oreillymedia.github.io/HTMLBook/#_frontmatter"><bdi clas=
+s=3D"secno">3.7<!---0.860764%--> </bdi>Frontmatter</a><!---0.860764%--></li=
+><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.git=
+hub.io/HTMLBook/#_backmatter"><bdi class=3D"secno">3.8<!---0.860764%--> </b=
+di>Backmatter</a><!---0.860764%--></li><li class=3D"tocline"><a class=3D"to=
+cxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_part"><bdi class=3D=
+"secno">3.9<!---0.860764%--> </bdi>Part</a><!---0.860764%--></li><li class=
+=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTM=
+LBook/#_table_of_contents"><bdi class=3D"secno">3.10<!---0.860764%--> </bdi=
+>Table of Contents</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_index"><bdi c=
+lass=3D"secno">3.11<!---0.860764%--> </bdi>Index</a><!---0.860764%--></li><=
+li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.githu=
+b.io/HTMLBook/#_sections"><bdi class=3D"secno">3.12<!---0.860764%--> </bdi>=
+Sections</a><!---0.860764%--></li></ol></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_block_element=
+s"><bdi class=3D"secno">4.<!---0.860764%--> </bdi>Block Elements</a><!---0.=
+860764%--><ol class=3D"toc"><li class=3D"tocline"><a class=3D"tocxref" href=
+=3D"http://oreillymedia.github.io/HTMLBook/#_paragraph"><bdi class=3D"secno=
+">4.1<!---0.860764%--> </bdi>Paragraph</a><!---0.860764%--></li><li class=
+=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTM=
+LBook/#_sidebar"><bdi class=3D"secno">4.2<!---0.860764%--> </bdi>Sidebar</a=
+><!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"h=
+ttp://oreillymedia.github.io/HTMLBook/#_admonitions"><bdi class=3D"secno">4=
+.3<!---0.860764%--> </bdi>Admonitions</a><!---0.860764%--></li><li class=3D=
+"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#_tables"><bdi class=3D"secno">4.4<!---0.860764%--> </bdi>Tables</a><!--=
+-0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http:/=
+/oreillymedia.github.io/HTMLBook/#_figures"><bdi class=3D"secno">4.5<!---0.=
+860764%--> </bdi>Figures</a><!---0.860764%--></li><li class=3D"tocline"><a =
+class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_examples=
+"><bdi class=3D"secno">4.6<!---0.860764%--> </bdi>Examples</a><!---0.860764=
+%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillym=
+edia.github.io/HTMLBook/#_code_listings"><bdi class=3D"secno">4.7<!---0.860=
+764%--> </bdi>Code listings</a><!---0.860764%--></li><li class=3D"tocline">=
+<a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_order=
+ed_lists"><bdi class=3D"secno">4.8<!---0.860764%--> </bdi>Ordered lists</a>=
+<!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#_itemized_lists"><bdi class=3D"secno"=
+>4.9<!---0.860764%--> </bdi>Itemized lists</a><!---0.860764%--></li><li cla=
+ss=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/H=
+TMLBook/#_definition_lists"><bdi class=3D"secno">4.10<!---0.860764%--> </bd=
+i>Definition lists</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_blockquote"><=
+bdi class=3D"secno">4.11<!---0.860764%--> </bdi>Blockquote</a><!---0.860764=
+%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillym=
+edia.github.io/HTMLBook/#_equation"><bdi class=3D"secno">4.12<!---0.860764%=
+--> </bdi>Equation</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_refentry"><bd=
+i class=3D"secno">4.13<!---0.860764%--> </bdi>Reference Entries (refentries=
+)</a><!---0.860764%--></li></ol></li><li class=3D"tocline"><a class=3D"tocx=
+ref" href=3D"http://oreillymedia.github.io/HTMLBook/#_inline_elements"><bdi=
+ class=3D"secno">5.<!---0.860764%--> </bdi>Inline Elements</a><!---0.860764=
+%--><ol class=3D"toc"><li class=3D"tocline"><a class=3D"tocxref" href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#_emphasis_generally_for_italic"><bdi =
+class=3D"secno">5.1<!---0.860764%--> </bdi>Emphasis (generally for italic)<=
+/a><!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D=
+"http://oreillymedia.github.io/HTMLBook/#_strong_generally_for_bold"><bdi c=
+lass=3D"secno">5.2<!---0.860764%--> </bdi>Strong (generally for bold)</a><!=
+---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http=
+://oreillymedia.github.io/HTMLBook/#_literal_for_inline_code_elements_varia=
+bles_functions_etc"><bdi class=3D"secno">5.3<!---0.860764%--> </bdi>Literal=
+ (for inline code elements: variables, functions, etc.)</a><!---0.860764%--=
+></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedi=
+a.github.io/HTMLBook/#_general_purpose_phrase_markup_for_other_styling_unde=
+rline_strikethrough_etc"><bdi class=3D"secno">5.4<!---0.860764%--> </bdi>Ge=
+neral-purpose phrase markup for other styling</a><!---0.860764%--></li><li =
+class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.i=
+o/HTMLBook/#_footnote_endnote"><bdi class=3D"secno">5.5<!---0.860764%--> </=
+bdi>Footnote, endnote</a><!---0.860764%--></li><li class=3D"tocline"><a cla=
+ss=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_cross_refer=
+ences"><bdi class=3D"secno">5.6<!---0.860764%--> </bdi>Cross-references</a>=
+<!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#_index_term"><bdi class=3D"secno">5.7=
+<!---0.860764%--> </bdi>Index Term</a><!---0.860764%--></li><li class=3D"to=
+cline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/=
+#_superscripts"><bdi class=3D"secno">5.8<!---0.860764%--> </bdi>Superscript=
+s</a><!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=
+=3D"http://oreillymedia.github.io/HTMLBook/#_subscripts"><bdi class=3D"secn=
+o">5.9<!---0.860764%--> </bdi>Subscripts</a><!---0.860764%--></li></ol></li=
+><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.git=
+hub.io/HTMLBook/#_heading_elements"><bdi class=3D"secno">6.<!---0.860764%--=
+> </bdi>Heading Elements</a><!---0.860764%--><ol class=3D"toc"><li class=3D=
+"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#_headings"><bdi class=3D"secno">6.1<!---0.860764%--> </bdi>Headings</a>=
+<!---0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#header_block"><bdi class=3D"secno">6.=
+2<!---0.860764%--> </bdi>Header</a><!---0.860764%--></li></ol></li><li clas=
+s=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HT=
+MLBook/#_interactive_elements"><bdi class=3D"secno">7.<!---0.860764%--> </b=
+di>Interactive Elements</a><!---0.860764%--><ol class=3D"toc"><li class=3D"=
+tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBoo=
+k/#_video"><bdi class=3D"secno">7.1<!---0.860764%--> </bdi>Video</a><!---0.=
+860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://or=
+eillymedia.github.io/HTMLBook/#_audio"><bdi class=3D"secno">7.2<!---0.86076=
+4%--> </bdi>Audio</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_canvas"><bdi =
+class=3D"secno">7.3<!---0.860764%--> </bdi>Canvas</a><!---0.860764%--></li>=
+</ol></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreilly=
+media.github.io/HTMLBook/#_comments"><bdi class=3D"secno">8.<!---0.860764%-=
+-> </bdi>Comments</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#_metadata"><bd=
+i class=3D"secno">9.<!---0.860764%--> </bdi>Metadata</a><!---0.860764%--><o=
+l class=3D"toc"><li class=3D"tocline"><a class=3D"tocxref" href=3D"http://o=
+reillymedia.github.io/HTMLBook/#_metadata_points"><bdi class=3D"secno">9.1<=
+!---0.860764%--> </bdi>Metadata points</a><!---0.860764%--></li></ol></li><=
+li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.githu=
+b.io/HTMLBook/#_element_classification"><bdi class=3D"secno">10.<!---0.8607=
+64%--> </bdi>Element Classification</a><!---0.860764%--><ol class=3D"toc"><=
+li class=3D"tocline"><a class=3D"tocxref" href=3D"http://oreillymedia.githu=
+b.io/HTMLBook/#block_elements"><bdi class=3D"secno">10.1<!---0.860764%--> <=
+/bdi>Block Elements</a><!---0.860764%--></li><li class=3D"tocline"><a class=
+=3D"tocxref" href=3D"http://oreillymedia.github.io/HTMLBook/#inline_element=
+s"><bdi class=3D"secno">10.2<!---0.860764%--> </bdi>Inline Elements</a><!--=
+-0.860764%--></li></ol></li><li class=3D"tocline"><a class=3D"tocxref" href=
+=3D"http://oreillymedia.github.io/HTMLBook/#references"><bdi class=3D"secno=
+">A.<!---0.860764%--> </bdi>References<!---0.860764%--></a><!---0.860764%--=
+><ol class=3D"toc"><li class=3D"tocline"><a class=3D"tocxref" href=3D"http:=
+//oreillymedia.github.io/HTMLBook/#normative-references"><bdi class=3D"secn=
+o">A.1<!---0.860764%--> </bdi>Normative references<!---0.860764%--></a><!--=
+-0.860764%--></li><li class=3D"tocline"><a class=3D"tocxref" href=3D"http:/=
+/oreillymedia.github.io/HTMLBook/#informative-references"><bdi class=3D"sec=
+no">A.2<!---0.860764%--> </bdi>Informative references<!---0.860764%--></a><=
+!---0.860764%--></li></ol></li></ol></nav>
+    <section id=3D"notes-on-the-htmlbook-specification">
+      <!--OddPage--><h2 id=3D"x1-notes-on-the-htmlbook-specification"><bdi =
+class=3D"secno">1.<!---0.860764%--> </bdi>Notes on the HTMLBook Specificati=
+on</h2>
+      <p>Requirements for HTML5 elements in the HTMLBook specification are =
+below. Special semantic inflections for <code>data-type</code> attributes, =
+unless otherwise noted, come from <a href=3D"http://idpf.org/epub/vocab/str=
+ucture/">EPUB 3 Structural Semantics Vocabulary</a></p>
+      <p>Many content models refer to =E2=80=9CBlock Elements=E2=80=9D or =
+=E2=80=9CInline Elements=E2=80=9D; please see <a href=3D"http://oreillymedi=
+a.github.io/HTMLBook/#block_elements">Block Elements</a> and <a href=3D"htt=
+p://oreillymedia.github.io/HTMLBook/#inline_elements">Inline Elements</a> f=
+or the corresponding list of HTML5 elements that belong to each of these ca=
+tegories.</p>
+      <p>If no content model or attribute requirements are explicitly speci=
+fied, then HTMLBook adopts the corresponding requirements in the [<cite cla=
+ss=3D"respec-offending-element" title=3D"Normative references in informativ=
+e sections are not allowed. Remove '!' from the start of the reference `[[!=
+HTML5]]`" id=3D"respec-offender-normative-references-in-informative-section=
+s-are-not-allowed-remove-from-the-start-of-the-reference-html5"><a class=3D=
+"bibref" data-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HT=
+MLBook/#bib-html5" title=3D"HTML5">HTML5<!---0.860764%--></a></cite>] Speci=
+fication</p>
+    </section>
+    <section id=3D"revision-history-and-notes">
+      <!--OddPage--><h2 id=3D"x2-revision-history-and-notes"><bdi class=3D"=
+secno">2.<!---0.860764%--> </bdi>Revision History and Notes</h2>
+      <dl>
+	<dt>16 September 2015</dt>
+	<dd>Added informative section on reference entries</dd>
+	<dt>25 February 2015</dt>
+	<dd>Clarified HTMLBook specifications for inline semantics/tagging</dd>
+	<dt>8 April 2014</dt>
+	<dd>Updated specifications for section subtitles to comply with best pract=
+ices set forth in <a href=3D"http://www.w3.org/TR/html5/common-idioms.html#=
+common-idioms">=E2=80=9CCommon idioms without dedicated elements=E2=80=9D</=
+a> in [<cite><a class=3D"bibref" data-link-type=3D"biblio" href=3D"http://o=
+reillymedia.github.io/HTMLBook/#bib-html5" title=3D"HTML5">HTML5<!---0.8607=
+64%--></a></cite>] Specification.</dd>
+        <dt>29 December 2013</dt>
+        <dd>Minor revisions for clarity</dd>
+        <dt>13 August 2013</dt>
+        <dd>Revised specification for footnote markup</dd>
+        <dt>3 July 2013</dt>
+        <dd>Changed spec to use the attribute <code>data-type</code> for sp=
+ecifying book-specific semantics instead of <code>class</code>. The <code>c=
+lass</code> attribute is
+now free to be used for whatever user-defined semantics are desired, and th=
+ere are no restrictions on <code>class</code> values. Users of the spec may=
+ want to replicate <code>data-type</code> values in the <code>class</code> =
+attribute to facilitate CSS styling, but this is completely optional.</dd>
+        <dt>19 April 2013</dt>
+        <dd>First release of Working Draft</dd>
+      </dl>
+    </section>
+    <section data-type=3D"sect1" id=3D"_book_component_elements">
+      <!--OddPage--><h2 id=3D"x3-book-component-elements"><bdi class=3D"sec=
+no">3.<!---0.860764%--> </bdi>Book Component elements</h2>
+      <section data-type=3D"sect2" id=3D"_book">
+        <h3 id=3D"x3-1-book"><bdi class=3D"secno">3.1<!---0.860764%--> </bd=
+i>Book</h3>
+        <p><strong>HTML element</strong>: <code>&lt;body&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"book=
+"</code> <span data-type=3D"footnote">(Not in [<cite><a class=3D"bibref" da=
+ta-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib=
+-epub3ssv" title=3D"EPUB 3 Structural Semantics Vocabulary">EPUB3SSV<!---0.=
+860764%--></a></cite>]; from [<cite><a class=3D"bibref" data-link-type=3D"b=
+iblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib-docbook" title=
+=3D"The DocBook Document Type">DOCBOOK<!---0.860764%--></a></cite>])</span>=
+</p>
+        <p><strong>Content model</strong>: Optional <code>&lt;h1&gt;</code>=
+ that contains book title, or <a href=3D"http://oreillymedia.github.io/HTML=
+Book/#header_block">Header block</a> that contains book title and optional =
+subtitle content; then one or more <a href=3D"http://oreillymedia.github.io=
+/HTMLBook/#_book_component_elements">Book Component</a> elements as childre=
+n (<code>&lt;div&gt;</code> for <a href=3D"http://oreillymedia.github.io/HT=
+MLBook/#_part">Part</a> elements, <code>&lt;nav&gt;</code> for <a href=3D"h=
+ttp://oreillymedia.github.io/HTMLBook/#_table_of_contents">Table of Content=
+s</a>, and <code>&lt;section&gt;</code> elements for all other book divisio=
+ns)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" data-code-language=3D"html" aria-=
+busy=3D"false"><code class=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span =
+class=3D"hljs-name">body</span> <span class=3D"hljs-attr">data-type</span>=
+=3D<span class=3D"hljs-string">"book"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>jQuery Cookbook<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1=
+</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"chap=
+ter"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Chapter content here --&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">body</span>&gt;</sp=
+an></code></pre>
+        <p><strong>Note</strong>: Just as in standard HTML5, <code>&lt;body=
+&gt;</code> is a child of the root <code>&lt;html&gt;</code> element.</p>
+      </section>
+      <section data-type=3D"sect2" id=3D"_chapter">
+        <h3 id=3D"x3-2-chapter"><bdi class=3D"secno">3.2<!---0.860764%--> <=
+/bdi>Chapter</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"chap=
+ter"</code></p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains chapter title, or <a href=3D"http://oreill=
+ymedia.github.io/HTMLBook/#header_block">Header block</a> that contains cha=
+pter title and optional subtitle content; then zero or more <a href=3D"http=
+://oreillymedia.github.io/HTMLBook/#block_elements">Block Elements</a>; the=
+n zero or more <a href=3D"http://oreillymedia.github.io/HTMLBook/#_sections=
+">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</code>)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"chapter"</span>&gt;</span>
+  <span class=3D"hljs-comment">&lt;!-- h1 used for all chapter titles --&gt=
+;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Chapter Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Chapter content<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+1"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Section content here... --&gt;</sp=
+an>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_appendix">
+        <h3 id=3D"x3-3-appendix"><bdi class=3D"secno">3.3<!---0.860764%--> =
+</bdi>Appendix</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"appe=
+ndix"</code> or <code>data-type=3D"afterword"</code>, depending on content<=
+/p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains appendix title, or <a href=3D"http://oreil=
+lymedia.github.io/HTMLBook/#header_block">Header block</a> that contains ap=
+pendix title and optional subtitle content; then zero or more <a href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#block_elements">Block Elements</a>; t=
+hen zero or more <a href=3D"http://oreillymedia.github.io/HTMLBook/#_sectio=
+ns">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</code>)</=
+p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"appendix"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Appendix Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Appendix content<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+1"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Section content here... --&gt;</sp=
+an>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_bibliography">
+        <h3 id=3D"x3-4-bibliography"><bdi class=3D"secno">3.4<!---0.860764%=
+--> </bdi>Bibliography</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"bibl=
+iography"</code></p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains bibliography title, or <a href=3D"http://o=
+reillymedia.github.io/HTMLBook/#header_block">Header block</a> that contain=
+s bibliography title and optional subtitle content; then zero or more <a hr=
+ef=3D"http://oreillymedia.github.io/HTMLBook/#block_elements">Block Element=
+s</a>; then zero or more <a href=3D"http://oreillymedia.github.io/HTMLBook/=
+#_sections">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</=
+code>)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"bibliography"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Bibliography Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name"=
+>h1</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Bibliography content<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name=
+">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+1"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Section content here... --&gt;</sp=
+an>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"glossary">
+        <h3 id=3D"x3-5-glossary"><bdi class=3D"secno">3.5<!---0.860764%--> =
+</bdi>Glossary</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"glos=
+sary"</code></p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains glossary title, or <a href=3D"http://oreil=
+lymedia.github.io/HTMLBook/#header_block">Header block</a> that contains gl=
+ossary title and optional subtitle content; then zero or more <a href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#block_elements">Block Elements</a>; t=
+hen zero or more <a href=3D"http://oreillymedia.github.io/HTMLBook/#_sectio=
+ns">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</code>)</=
+p>
+        <p><strong>Best practices</strong>: List of glossary terms should b=
+e marked up using <code>&lt;dl&gt;</code> elements with a <code>data-type</=
+code> of <code>"glossary"</code>, with <code>&lt;dt&gt;</code> children wit=
+h a <code>data-type</code> of <code>"glossterm"</code> and <code>&lt;dd&gt;=
+</code> children with a <code>data-type</code> of <code>"glossdef"</code>. =
+Term text should be wrapped in a <code>&lt;dfn&gt;</code>. However, none of=
+ this is formally required by the spec.</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"glossary"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Glossary Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dl</span> <span cl=
+ass=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"glossary"=
+</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dt</span> <span =
+class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"glosste=
+rm"</span>&gt;</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dfn</span>&gt;=
+</span>jQuery<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">dfn</s=
+pan>&gt;</span>
+    <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">dt</span>&gt;</=
+span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dd</span> <span =
+class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"glossde=
+f"</span>&gt;</span>
+      Widely used JavaScript library
+    <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">dd</span>&gt;</=
+span>
+   <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">dl</span>&gt;</s=
+pan>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_preface">
+        <h3 id=3D"x3-6-preface"><bdi class=3D"secno">3.6<!---0.860764%--> <=
+/bdi>Preface</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"pref=
+ace"</code>, <code>data-type=3D"foreword"</code>, or <code>data-type=3D"int=
+roduction"</code>, depending on content</p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains preface title, or <a href=3D"http://oreill=
+ymedia.github.io/HTMLBook/#header_block">Header block</a> that contains pre=
+face title and optional subtitle content; then zero or more <a href=3D"http=
+://oreillymedia.github.io/HTMLBook/#block_elements">Block Elements</a>; the=
+n zero or more <a href=3D"http://oreillymedia.github.io/HTMLBook/#_sections=
+">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</code>)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"preface"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Preface Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Preface content<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+1"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Section content here... --&gt;</sp=
+an>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_frontmatter">
+        <h3 id=3D"x3-7-frontmatter"><bdi class=3D"secno">3.7<!---0.860764%-=
+-> </bdi>Frontmatter</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"half=
+titlepage"</code>, <code>data-type=3D"titlepage"</code>, <code>data-type=3D=
+"copyright-page"</code>, or <code>data-type=3D"dedication"</code>, dependin=
+g on content</p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains frontmatter section title, or <a href=3D"h=
+ttp://oreillymedia.github.io/HTMLBook/#header_block">Header block</a> that =
+contains frontmatter title and optional subtitle content; then zero or more=
+ <a href=3D"http://oreillymedia.github.io/HTMLBook/#block_elements">Block E=
+lements</a>; then zero or more <a href=3D"http://oreillymedia.github.io/HTM=
+LBook/#_sections">Sect1</a> children (<code>&lt;section data-type=3D"sect1"=
+&gt;</code>)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"titlepage"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Python in a Nutshell<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-nam=
+e">h1</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>By Alex Martelli<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p<=
+/span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_backmatter">
+        <h3 id=3D"x3-8-backmatter"><bdi class=3D"secno">3.8<!---0.860764%--=
+> </bdi>Backmatter</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"colo=
+phon"</code>, <code>data-type=3D"acknowledgments"</code>, <code>data-type=
+=3D"afterword"</code>, or <code>data-type=3D"conclusion"</code>, depending =
+on content</p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains backmatter section title, or <a href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#header_block">Header block</a> that c=
+ontains backmatter title and optional subtitle content; then zero or more <=
+a href=3D"http://oreillymedia.github.io/HTMLBook/#block_elements">Block Ele=
+ments</a>; then zero or more <a href=3D"http://oreillymedia.github.io/HTMLB=
+ook/#_sections">Sect1</a> children (<code>&lt;section data-type=3D"sect1"&g=
+t;</code>)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"colophon"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Colophon Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Colophon content<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+1"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Section content here... --&gt;</sp=
+an>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_part">
+        <h3 id=3D"x3-9-part"><bdi class=3D"secno">3.9<!---0.860764%--> </bd=
+i>Part</h3>
+        <p><strong>HTML element</strong>: <code>&lt;div&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"part=
+"</code></p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains part title, or <a href=3D"http://oreillyme=
+dia.github.io/HTMLBook/#header_block">Header block</a> that contains part t=
+itle and optional subtitle content; then zero or more <a href=3D"http://ore=
+illymedia.github.io/HTMLBook/#block_elements">Block Elements</a> that compo=
+se the optional Part introduction; then one or more <code>&lt;section&gt;</=
+code> elements representing <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#_book_component_elements">Book Component</a> children other than a Part=
+</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"part"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Part One: Introduction to Backbone.js<span class=3D"hljs-tag">&lt;/<span =
+class=3D"hljs-name">h1</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Part Introduction...<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name=
+">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"chap=
+ter"</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- Chapter content here --&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</spa=
+n></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_table_of_contents">
+        <h3 id=3D"x3-10-table-of-contents"><bdi class=3D"secno">3.10<!---0.=
+860764%--> </bdi>Table of Contents</h3>
+        <p><strong>HTML element</strong>: <code>&lt;nav&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"toc"=
+</code></p>
+        <p><strong>Content Model</strong>: The TOC must be conformant to th=
+e specs for the [<cite><a class=3D"bibref" data-link-type=3D"biblio" href=
+=3D"http://oreillymedia.github.io/HTMLBook/#bib-epub3" title=3D"EPUB 3 Over=
+view">EPUB3<!---0.860764%--></a></cite>] <a href=3D"http://www.idpf.org/epu=
+b/30/spec/epub30-contentdocs-20111011.html#sec-xhtml-nav">Navigation docume=
+nt</a>. First child is zero or more <a href=3D"http://oreillymedia.github.i=
+o/HTMLBook/#_headings">Heading elements</a> (<code>&lt;h1&gt;-&lt;h6&gt;</c=
+ode>), followed by an <code>&lt;ol&gt;</code> (with <code>&lt;li&gt;</code>=
+ children that can contain only a <code>&lt;span&gt;</code> element or an <=
+code>&lt;a&gt;</code> element plus an optional <code>&lt;ol&gt;</code> chil=
+d)</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">nav</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"toc"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Table of Contents<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">=
+h1</span>&gt;</span>
+   <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ol</span>&gt;</sp=
+an>
+     <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</=
+span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span> <span =
+class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"examples_pag=
+e.html"</span>&gt;</span>A Note Regarding Supplemental Files<span class=3D"=
+hljs-tag">&lt;/<span class=3D"hljs-name">a</span>&gt;</span><span class=3D"=
+hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;</span>
+     <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</=
+span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span> <span =
+class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"pr02.html"</=
+span>&gt;</span>Foreword<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-n=
+ame">a</span>&gt;</span><span class=3D"hljs-tag">&lt;/<span class=3D"hljs-n=
+ame">li</span>&gt;</span>
+     <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</=
+span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span> <span =
+class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"pr03.html"</=
+span>&gt;</span>Contributors<span class=3D"hljs-tag">&lt;/<span class=3D"hl=
+js-name">a</span>&gt;</span>
+       <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ol</span>&gt;=
+</span>
+         <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&g=
+t;</span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span> <s=
+pan class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"pr03.htm=
+l#I_sect1_d1e154"</span>&gt;</span>Chapter Authors<span class=3D"hljs-tag">=
+&lt;/<span class=3D"hljs-name">a</span>&gt;</span><span class=3D"hljs-tag">=
+&lt;/<span class=3D"hljs-name">li</span>&gt;</span>
+         <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&g=
+t;</span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span> <s=
+pan class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"pr03.htm=
+l#I_sect1_d1e260"</span>&gt;</span>Tech Editors<span class=3D"hljs-tag">&lt=
+;/<span class=3D"hljs-name">a</span>&gt;</span><span class=3D"hljs-tag">&lt=
+;/<span class=3D"hljs-name">li</span>&gt;</span>
+       <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ol</span>&gt=
+;</span>
+     <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;<=
+/span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ol</span>&gt;</sp=
+an>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">nav</span>&gt;</spa=
+n></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_index">
+        <h3 id=3D"x3-11-index"><bdi class=3D"secno">3.11<!---0.860764%--> <=
+/bdi>Index</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"inde=
+x"</code></p>
+        <p><strong>Content model</strong>: First child must be either <code=
+>&lt;h1&gt;</code> that contains index title, or <a href=3D"http://oreillym=
+edia.github.io/HTMLBook/#header_block">Header block</a> that contains index=
+ title and optional subtitle content; then zero or more <a href=3D"http://o=
+reillymedia.github.io/HTMLBook/#block_elements">Block Elements</a>; then ze=
+ro or more <a href=3D"http://oreillymedia.github.io/HTMLBook/#_sections">Se=
+ct1</a> children (<code>&lt;section data-type=3D"sect1"&gt;</code>)</p>
+        <p><strong>Best practices</strong>: HTMLBook recommends following t=
+he [<cite><a class=3D"bibref" data-link-type=3D"biblio" href=3D"http://orei=
+llymedia.github.io/HTMLBook/#bib-epubindex" title=3D"EPUB Indexes 1.0">EPUB=
+INDEX<!---0.860764%--></a></cite>] specification and using <code>&lt;ol&gt;=
+</code>/<code>&lt;li&gt;</code> elements for marking up index entries, with=
+ <code>data-type</code> attributes used for semantic inflection as appropri=
+ate, but none of this is a formal spec requirement</p>
+        <p>
+          <strong>Example</strong>
+        </p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"index"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Index Title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</sp=
+an>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</span> <span c=
+lass=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"index-gr=
+oup"</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h2</span>&gt;</s=
+pan>A<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h2</span>&gt;<=
+/span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ol</span>&gt;</s=
+pan>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span> <spa=
+n class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"index=
+-term"</span>&gt;</span>AsciiDoc, <span class=3D"hljs-tag">&lt;<span class=
+=3D"hljs-name">a</span> <span class=3D"hljs-attr">href</span>=3D<span class=
+=3D"hljs-string">"ch01#asciidoc"</span> <span class=3D"hljs-attr">data-type=
+</span>=3D<span class=3D"hljs-string">"index-locator"</span>&gt;</span>All =
+about AsciiDoc<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">a</sp=
+an>&gt;</span>
+	<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ol</span>&gt;</span=
+>
+           <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>=
+ <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"=
+index-term"</span>&gt;</span>conversion to HTML,=20
+             <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">a</span=
+> <span class=3D"hljs-attr">href</span>=3D<span class=3D"hljs-string">"ch01=
+#asctohtml"</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=
+=3D"hljs-string">"index-locator"</span>&gt;</span>AsciiDoc Output Formats<s=
+pan class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">a</span>&gt;</span>
+           <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span=
+>&gt;</span>
+         <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ol</span>&=
+gt;</span>
+      <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;=
+</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span> <spa=
+n class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"index=
+-term"</span>&gt;</span>azalea, <span class=3D"hljs-tag">&lt;<span class=3D=
+"hljs-name">a</span> <span class=3D"hljs-attr">href</span>=3D<span class=3D=
+"hljs-string">"ch01#azalea"</span> <span class=3D"hljs-attr">data-type</spa=
+n>=3D<span class=3D"hljs-string">"index-locator"</span>&gt;</span>Shrubbery=
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">a</span>&gt;</span>=
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;</span=
+>
+    <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ol</span>&gt;</=
+span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</s=
+pan>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_sections">
+        <h3 id=3D"x3-12-sections"><bdi class=3D"secno">3.12<!---0.860764%--=
+> </bdi>Sections</h3>
+        <p><strong>HTML element</strong>: <code>&lt;section&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"sect=
+1"</code>, <code>data-type=3D"sect2"</code>, <code>data-type=3D"sect3"</cod=
+e>, <code>data-type=3D"sect4"</code>, <code>data-type=3D"sect5"</code> <spa=
+n data-type=3D"footnote">(From [<cite><a class=3D"bibref" data-link-type=3D=
+"biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib-docbook" title=
+=3D"The DocBook Document Type">DOCBOOK<!---0.860764%--></a></cite>] vocabul=
+ary)</span>, depending on hierarchy level. <code>sect1</code> is used for <=
+code>&lt;section&gt;</code> elements nested directly in main <a href=3D"htt=
+p://oreillymedia.github.io/HTMLBook/#_book_component_elements">Book Compone=
+nts</a> (<code>"chapter"</code>, <code>"appendix"</code>, etc.). <code>sect=
+2</code> is used for <code>&lt;section&gt;</code> elements nested in a <cod=
+e>sect1</code> <code>&lt;section&gt;</code>, <code>sect3</code> is used for=
+ <code>&lt;section&gt;</code> elements nested in a <code>sect2</code> <code=
+>&lt;section&gt;</code>, and so on.</p>
+        <p><strong>Content model</strong>: The first child must either be a=
+ main <a href=3D"http://oreillymedia.github.io/HTMLBook/#_headings">heading=
+</a> element corresponding to the hierarchy level indicated by <code>data-t=
+ype</code> value, as follows:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs javascript"><span class=3D"hljs-string">"sect1"</span> -&gt; h1
+<span class=3D"hljs-string">"sect2"</span> -&gt; h2
+<span class=3D"hljs-string">"sect3"</span> -&gt; h3
+<span class=3D"hljs-string">"sect4"</span> -&gt; h4
+<span class=3D"hljs-string">"sect5"</span> -&gt; h5</code></pre>
+<p>or a <a href=3D"http://oreillymedia.github.io/HTMLBook/#header_block">He=
+ader block</a> that contains section title and optional subtitle content. T=
+his is followed by zero or more <a href=3D"http://oreillymedia.github.io/HT=
+MLBook/#block_elements">Block Elements</a>, followed by zero or more <code>=
+&lt;section&gt;</code> elements with a <code>data-type</code> value one lev=
+el lower in the hierarchy, as long as the parent section is a <code>"sect4"=
+</code> or higher (e.g., <code>&lt;section data-type=3D"sect4"&gt;</code> n=
+ested in <code>&lt;section data-type=3D"sect3"&gt;</code>)</p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-s=
+tring">"sect1"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>A-Head<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</span>&g=
+t;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>If you httpparty, you must party hard<span class=3D"hljs-tag">&lt;/<span c=
+lass=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-comment">&lt;!-- Some more paragraphs --&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> <sp=
+an class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"sect=
+2"</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h2</span>&gt;</s=
+pan>B-Head<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h2</span>=
+&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</sp=
+an>What's the frequency, Kenneth?<span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span>
+    <span class=3D"hljs-comment">&lt;!-- And so on... --&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt=
+;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_block_elements">
+      <!--OddPage--><h2 id=3D"x4-block-elements"><bdi class=3D"secno">4.<!-=
+--0.860764%--> </bdi>Block Elements</h2>
+      <section data-type=3D"sect2" id=3D"_paragraph">
+        <h3 id=3D"x4-1-paragraph"><bdi class=3D"secno">4.1<!---0.860764%-->=
+ </bdi>Paragraph</h3>
+        <p><strong>HTML element</strong>: <code>&lt;p&gt;</code></p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>This is a standard paragraph with some <span class=3D"hljs-tag=
+">&lt;<span class=3D"hljs-name">em</span>&gt;</span>emphasized text<span cl=
+ass=3D"hljs-tag">&lt;/<span class=3D"hljs-name">em</span>&gt;</span><span c=
+lass=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</span>&gt;</span></code>=
+</pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_sidebar">
+        <h3 id=3D"x4-2-sidebar"><bdi class=3D"secno">4.2<!---0.860764%--> <=
+/bdi>Sidebar</h3>
+        <p><strong>HTML element</strong>: <code>&lt;aside&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"side=
+bar"</code></p>
+        <p><strong>Content model</strong>: Zero or one <code>&lt;h5&gt;</co=
+de> element that contains the sidebar title); then zero or more <a href=3D"=
+http://oreillymedia.github.io/HTMLBook/#block_elements">Block Elements</a><=
+/p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs javascript">&lt;aside data-type=3D<span class=3D"hljs-string">"sid=
+ebar"</span>&gt;
+  <span class=3D"xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name=
+">h5</span>&gt;</span>Amusing Digression<span class=3D"hljs-tag">&lt;/<span=
+ class=3D"hljs-name">h5</span>&gt;</span></span>
+  &lt;p&gt;Did you know that <span class=3D"hljs-keyword">in</span> Boston,=
+ they call it <span class=3D"hljs-string">"soda"</span>, and <span class=3D=
+"hljs-keyword">in</span> Chicago, they call it <span class=3D"hljs-string">=
+"pop"</span>?<span class=3D"xml"><span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span></span>
+&lt;<span class=3D"hljs-regexp">/aside&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_admonitions">
+        <h3 id=3D"x4-3-admonitions"><bdi class=3D"secno">4.3<!---0.860764%-=
+-> </bdi>Admonitions</h3>
+        <p><strong>HTML element</strong>: <code>&lt;div&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"note=
+"</code>, <code>data-type=3D"warning"</code>, <code>data-type=3D"tip"</code=
+>, <code>data-type=3D"caution"</code>, or <code>data-type=3D"important"</co=
+de>, depending on the content within</p>
+        <p><strong>Content model</strong>: Either of the following content =
+models is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <code>&lt;h1&gt;</code>=E2=80=93<code>&lt;h6&gt=
+;</code> elements, followed by zero or more <a href=3D"http://oreillymedia.=
+github.io/HTMLBook/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Examples</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"note"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Helpful Info<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</s=
+pan>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Please take note of this important information<span class=3D"hljs-tag">&lt=
+;/<span class=3D"hljs-name">p</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</spa=
+n></code></pre>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"warning"</span>&gt;</span>Make sure to get your AsciiDoc markup right!<=
+span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</span=
+></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_tables">
+        <h3 id=3D"x4-4-tables"><bdi class=3D"secno">4.4<!---0.860764%--> </=
+bdi>Tables</h3>
+        <p><strong>HTML element</strong>: <code>&lt;table&gt;</code></p>
+        <p><strong>Content model</strong>: Zero or one <code>&lt;caption&gt=
+;</code> elements (for titled/captioned tables); then zero or more <code>&l=
+t;colgroup&gt;</code> elements; then zero or more <code>&lt;thead&gt;</code=
+> elements; then a choice between either zero or more <code>&lt;tbody&gt;</=
+code> elements, or zero or more <code>&lt;tr&gt;</code> elements; then zero=
+ or more <code>&lt;tfoot&gt;</code> elements</p>
+        <p><strong>Content model for <code>&lt;caption&gt;</code></strong>:=
+ Either of the following is acceptable:</p>
+        <ul>
+          <li>
+            <p>Zero or more <code>&lt;p&gt;</code> and/or <code>&lt;div&gt;=
+</code> elements</p>
+          </li>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Content model for <code>&lt;colgroup&gt;</code></strong>=
+: Mirrors [<cite><a class=3D"bibref" data-link-type=3D"biblio" href=3D"http=
+://oreillymedia.github.io/HTMLBook/#bib-html5" title=3D"HTML5">HTML5<!---0.=
+860764%--></a></cite>] Specification</p>
+        <p><strong>Content models for <code>&lt;thead&gt;</code>, <code>&lt=
+;tbody&gt;</code>, and <code>&lt;tfoot&gt;</code></strong>: Mirror [<cite><=
+a class=3D"bibref" data-link-type=3D"biblio" href=3D"http://oreillymedia.gi=
+thub.io/HTMLBook/#bib-html5" title=3D"HTML5">HTML5<!---0.860764%--></a></ci=
+te>] Specification</p>
+        <p><strong>Content model for <code>&lt;tr&gt;</code></strong>: Mirr=
+ors [<cite><a class=3D"bibref" data-link-type=3D"biblio" href=3D"http://ore=
+illymedia.github.io/HTMLBook/#bib-html5" title=3D"HTML5">HTML5<!---0.860764=
+%--></a></cite>] Specification, but see content model below for rules for c=
+hild <code>&lt;td&gt;</code> and <code>&lt;th&gt;</code> elements</p>
+        <p><strong>Content model for <code>&lt;td&gt;</code> and <code>&lt;=
+th&gt;</code> elements</strong>: Either of the following is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Examples</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">table<=
+/span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">caption</span>&gt;</=
+span>State capitals<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">=
+caption</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">tr</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">th</span>&gt;</spa=
+n>State<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">th</span>&gt=
+;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">th</span>&gt;</spa=
+n>Capital<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">th</span>&=
+gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">tr</span>&gt;</span=
+>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">tr</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">td</span>&gt;</spa=
+n>Massachusetts<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">td</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">td</span>&gt;</spa=
+n>Boston<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">td</span>&g=
+t;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">tr</span>&gt;</span=
+>
+<span class=3D"hljs-comment">&lt;!-- And so on --&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">table</span>&gt;</s=
+pan></code></pre>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">table<=
+/span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">thead</span>&gt;</=
+span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">tr</span>&gt;</s=
+pan>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">th</span>&gt;<=
+/span>First<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">th</span=
+>&gt;</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">th</span>&gt;<=
+/span>Middle Initial<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name"=
+>th</span>&gt;</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">th</span>&gt;<=
+/span>Last<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">th</span>=
+&gt;</span>
+    <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">tr</span>&gt;</=
+span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">thead</span>&gt;<=
+/span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">tbody</span>&gt;</=
+span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">tr</span>&gt;</s=
+pan>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">td</span>&gt;<=
+/span>Alfred<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">td</spa=
+n>&gt;</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">td</span>&gt;<=
+/span>E.<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">td</span>&g=
+t;</span>
+      <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">td</span>&gt;<=
+/span>Newman<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">td</spa=
+n>&gt;</span>
+    <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">tr</span>&gt;</=
+span>
+    <span class=3D"hljs-comment">&lt;!-- And so on --&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">tbody</span>&gt;<=
+/span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">table</span>&gt;</s=
+pan></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_figures">
+        <h3 id=3D"x4-5-figures"><bdi class=3D"secno">4.5<!---0.860764%--> <=
+/bdi>Figures</h3>
+        <p><strong>HTML element</strong>: <code>&lt;figure&gt;</code></p>
+        <p><strong>Content model</strong>: Either of the following is accep=
+table:</p>
+        <ul>
+          <li>
+            <p>A <code>&lt;figcaption&gt;</code> element followed by zero o=
+r more <a href=3D"http://oreillymedia.github.io/HTMLBook/#block_elements">B=
+lock Elements</a> and/or <code>&lt;img&gt;</code> elements</p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a> and/or <code>&lt;img&gt;</code> elem=
+ents, followed by a <code>&lt;figcaption&gt;</code> element</p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">figure=
+</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">figcaption</span>&gt=
+;</span>Adorable cat<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name"=
+>figcaption</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">img</span> <span cla=
+ss=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"cute_kitty.gif"<=
+/span> <span class=3D"hljs-attr">alt</span>=3D<span class=3D"hljs-string">"=
+Photo of an adorable cat"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">figure</span>&gt;</=
+span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_examples">
+        <h3 id=3D"x4-6-examples"><bdi class=3D"secno">4.6<!---0.860764%--> =
+</bdi>Examples</h3>
+        <p><strong>HTML element</strong>: <code>&lt;div&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"exam=
+ple"</code></p>
+        <p><strong>Content model</strong>: Either of the following content =
+models is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <code>&lt;h1&gt;</code>=E2=80=93<code>&lt;h6&gt=
+;</code> elements (for title and subtitles), followed by zero or more <a hr=
+ef=3D"http://oreillymedia.github.io/HTMLBook/#block_elements">Block Element=
+s</a></p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"example"</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h5</span>&gt;</span>=
+Hello World in Python<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name=
+">h5</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">pre</span> <span cla=
+ss=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"programlis=
+ting"</span>&gt;</span>print "Hello World"<span class=3D"hljs-tag">&lt;/<sp=
+an class=3D"hljs-name">pre</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</spa=
+n></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_code_listings">
+        <h3 id=3D"x4-7-code-listings"><bdi class=3D"secno">4.7<!---0.860764=
+%--> </bdi>Code listings</h3>
+        <p><strong>HTML element</strong>: <code>&lt;pre&gt;</code></p>
+<p><strong>Attribute requirements:</strong> <code>data-type=3D"programlisti=
+ng"</code></p>
+        <p><strong>Optional HTMLBook-specific attribute</strong>: <code>dat=
+a-code-language</code>, used to indicate language of code listing (e.g., <c=
+ode>data-code-language=3D"python"</code>)</p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">pre</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"programlisting"</span>&gt;</span>print "<span class=3D"hljs-tag">&lt;<s=
+pan class=3D"hljs-name">em</span>&gt;</span>Hello World<span class=3D"hljs-=
+tag">&lt;/<span class=3D"hljs-name">em</span>&gt;</span>"<span class=3D"hlj=
+s-tag">&lt;/<span class=3D"hljs-name">pre</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_ordered_lists">
+        <h3 id=3D"x4-8-ordered-lists"><bdi class=3D"secno">4.8<!---0.860764=
+%--> </bdi>Ordered lists</h3>
+        <p><strong>HTML element</strong>: <code>&lt;ol&gt;</code></p>
+        <p><strong>Content model</strong>: Zero or more <code>&lt;li&gt;</c=
+ode> children for each list item</p>
+        <p><strong>Content model for <code>&lt;li&gt;</code> children</stro=
+ng>: Either of the following is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ol</sp=
+an>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</span>=
+Step 1<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;=
+</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Step 2<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</span>&gt;=
+</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>Step 2 continued<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p<=
+/span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;</span=
+>
+<span class=3D"hljs-comment">&lt;!-- And so on --&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ol</span>&gt;</span=
+></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_itemized_lists">
+        <h3 id=3D"x4-9-itemized-lists"><bdi class=3D"secno">4.9<!---0.86076=
+4%--> </bdi>Itemized lists</h3>
+        <p><strong>HTML element</strong>: <code>&lt;ul&gt;</code></p>
+        <p><strong>Content model</strong>: Zero or more <code>&lt;li&gt;</c=
+ode> children for each list item</p>
+        <p><strong>Content model for <code>&lt;li&gt;</code> children</stro=
+ng>: Either of the following is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">ul</sp=
+an>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</span>=
+Red<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;</s=
+pan>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">li</span>&gt;</span>=
+Orange<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">li</span>&gt;=
+</span>
+<span class=3D"hljs-comment">&lt;!-- And so on --&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">ul</span>&gt;</span=
+></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_definition_lists">
+        <h3 id=3D"x4-10-definition-lists"><bdi class=3D"secno">4.10<!---0.8=
+60764%--> </bdi>Definition lists</h3>
+        <p><strong>HTML element</strong>: <code>&lt;dl&gt;</code></p>
+        <p><strong>Content model</strong>: Mirrors [<cite><a class=3D"bibre=
+f" data-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HTMLBook=
+/#bib-html5" title=3D"HTML5">HTML5<!---0.860764%--></a></cite>] Specificati=
+on</p>
+        <p><strong>Content model for <code>&lt;dt&gt;</code> children</stro=
+ng>: text and/or zero or more <a href=3D"http://oreillymedia.github.io/HTML=
+Book/#inline_elements">Inline Elements</a></p>
+        <p><strong>Content model for <code>&lt;dd&gt;</code> children</stro=
+ng>: Either of the following is acceptable:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dl</sp=
+an>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dt</span>&gt;</spa=
+n>Constant Width Bold font<span class=3D"hljs-tag">&lt;/<span class=3D"hljs=
+-name">dt</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">dd</span>&gt;</spa=
+n>Used to indicate user input<span class=3D"hljs-tag">&lt;/<span class=3D"h=
+ljs-name">dd</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">dl</span>&gt;</span=
+></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_blockquote">
+        <h3 id=3D"x4-11-blockquote"><bdi class=3D"secno">4.11<!---0.860764%=
+--> </bdi>Blockquote</h3>
+        <p><strong>HTML element</strong>: <code>&lt;blockquote&gt;</code></=
+p>
+        <p><strong>Content model</strong>: Either of the following is accep=
+table:</p>
+        <ul>
+          <li>
+            <p>Text and/or zero or more <a href=3D"http://oreillymedia.gith=
+ub.io/HTMLBook/#inline_elements">Inline Elements</a></p>
+          </li>
+          <li>
+            <p>Zero or more <a href=3D"http://oreillymedia.github.io/HTMLBo=
+ok/#block_elements">Block Elements</a></p>
+          </li>
+        </ul>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">blockq=
+uote</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>When in the course of human events...<span class=3D"hljs-tag">&lt;/<span c=
+lass=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span> <span cla=
+ss=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"attributio=
+n"</span>&gt;</span>U.S. Declaration of Independence<span class=3D"hljs-tag=
+">&lt;/<span class=3D"hljs-name">p</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">blockquote</span>&g=
+t;</span></code></pre>
+	<p><strong>Note</strong>: If the blockquote is an epigraph, add <code>data=
+-type=3D"epigraph"</code>, e.g.:</p>
+	<pre data-type=3D"programlisting" aria-busy=3D"false"><code class=3D"hljs =
+xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> =
+<span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"c=
+hapter"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Conclusion<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1</spa=
+n>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">blockquote</span> =
+<span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"e=
+pigraph"</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</sp=
+an>It ain't over till it's over.<span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span> <span c=
+lass=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"attribut=
+ion"</span>&gt;</span>Yogi Berra<span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">blockquote</span>=
+&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>In this final chapter of the book, we will=E2=80=A6<span class=3D"hljs-tag=
+">&lt;<span class=3D"hljs-name">p</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_equation">
+        <h3 id=3D"x4-12-equation"><bdi class=3D"secno">4.12<!---0.860764%--=
+> </bdi>Equation</h3>
+        <p><strong>HTML element</strong>: <code>&lt;div&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"equa=
+tion"</code> <span data-type=3D"footnote">(From [<cite><a class=3D"bibref" =
+data-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#b=
+ib-docbook" title=3D"The DocBook Document Type">DOCBOOK<!---0.860764%--></a=
+></cite>]; no close match in [<cite><a class=3D"bibref" data-link-type=3D"b=
+iblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib-epub3ssv" title=
+=3D"EPUB 3 Structural Semantics Vocabulary">EPUB3SSV<!---0.860764%--></a></=
+cite>])</span></p>
+        <p><strong>Note:</strong> HTMLBook supports embedded MathML in HTML=
+ content documents, which can be used here.</p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-strin=
+g">"equation"</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h5</span>&gt;</span>=
+Pythagorean Theorem<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">=
+h5</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">math</span> <span cl=
+ass=3D"hljs-attr">xmlns</span>=3D<span class=3D"hljs-string">"http://www.w3=
+.org/1998/Math/MathML"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">msup</span>&gt;</s=
+pan><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mi</span>&gt;</s=
+pan>a<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mi</span>&gt;<=
+/span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mn</span>&gt;<=
+/span>2<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mn</span>&gt=
+;</span><span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">msup</span>=
+&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mo</span>&gt;</spa=
+n>+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mo</span>&gt;</s=
+pan>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">msup</span>&gt;</s=
+pan><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mi</span>&gt;</s=
+pan>b<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mi</span>&gt;<=
+/span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mn</span>&gt;<=
+/span>2<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mn</span>&gt=
+;</span><span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">msup</span>=
+&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mo</span>&gt;</spa=
+n>=3D<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mo</span>&gt;<=
+/span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">msup</span>&gt;</s=
+pan><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mi</span>&gt;</s=
+pan>c<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mi</span>&gt;<=
+/span><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">mn</span>&gt;<=
+/span>2<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">mn</span>&gt=
+;</span><span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">msup</span>=
+&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">math</span>&gt;</sp=
+an>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</spa=
+n></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_refentry" class=3D"informative">
+        <h3 id=3D"x4-13-reference-entries-refentries"><bdi class=3D"secno">=
+4.13<!---0.860764%--> </bdi>Reference Entries (refentries)</h3><p><em>This =
+section is non-normative.<!---0.860764%--></em></p>
+        <p><strong>Suggested HTML element</strong>: <code>&lt;div&gt;</code=
+></p>
+        <p><strong>Suggested semantics</strong>: <code>class=3D"refentry"</=
+code></p>
+        <p><strong>Note:</strong> HTMLBook does not currently normatively s=
+pecify structural semantics for reference entries as they are conceived in =
+<a href=3D"http://www.docbook.org/tdg/en/html/refentry.html">DocBook</a> ([=
+<cite><a class=3D"bibref" data-link-type=3D"biblio" href=3D"http://oreillym=
+edia.github.io/HTMLBook/#bib-docbook" title=3D"The DocBook Document Type">D=
+OCBOOK<!---0.860764%--></a></cite>]) or <a href=3D"http://docs.oasis-open.o=
+rg/dita/v1.2/os/spec/common/reference2.html#reference2">DITA</a> ([<cite><a=
+ class=3D"bibref" data-link-type=3D"biblio" href=3D"http://oreillymedia.git=
+hub.io/HTMLBook/#bib-dita" title=3D"Darwin Information Typing Architecture =
+(DITA) Version 1.2">DITA<!---0.860764%--></a></cite>]). Use of <code>&lt;di=
+v class=3D"refentry"&gt;</code> is suggested for marking up reference entri=
+es. The following example illustrates XHTML5 markup one might use for refen=
+try content, which captures DocBook-style semantics</p>
+        <p><strong>Example refentry paralleling [<cite><a class=3D"bibref" =
+data-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#b=
+ib-docbook" title=3D"The DocBook Document Type">DOCBOOK<!---0.860764%--></a=
+></cite>]</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</s=
+pan> <span class=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"=
+refentry"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">header</span>&gt;<=
+/span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span> <span c=
+lass=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"refname"</sp=
+an>&gt;</span>print<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">=
+p</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span> <span c=
+lass=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"refpurpose"<=
+/span>&gt;</span>Output some text to stdout.<span class=3D"hljs-tag">&lt;/<=
+span class=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">header</span>&gt;=
+</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</span> <span c=
+lass=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"refsynopsisd=
+iv"</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">pre</span> <span=
+ class=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"synopsis"<=
+/span>&gt;</span>print "<span class=3D"hljs-tag">&lt;<span class=3D"hljs-na=
+me">em</span>&gt;</span>Hello World<span class=3D"hljs-tag">&lt;/<span clas=
+s=3D"hljs-name">em</span>&gt;</span>"<span class=3D"hljs-tag">&lt;/<span cl=
+ass=3D"hljs-name">pre</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</s=
+pan>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">div</span> <span c=
+lass=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"refsect1"</s=
+pan>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h6</span>&gt;</s=
+pan>Description<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h6</=
+span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</sp=
+an>More description would go here<span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</s=
+pan>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">div</span>&gt;</spa=
+n></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_inline_elements">
+      <!--OddPage--><h2 id=3D"x5-inline-elements"><bdi class=3D"secno">5.<!=
+---0.860764%--> </bdi>Inline Elements</h2>
+	<div class=3D"note" role=3D"note" id=3D"issue-container-generatedID"><div =
+role=3D"heading" class=3D"note-title marker" id=3D"h-note" aria-level=3D"3"=
+><span>Note</span><!---0.860764%--></div><div class=3D"">HTMLBook is primar=
+ily focused on codifying <em>structural semantics</em> for book authoring, =
+and as such, it does not formally define specifications for phrase-level se=
+mantics (such as the DocBook <a href=3D"http://www.docbook.org/tdg/en/html/=
+varname.html"><code>varname</code></a> or <a href=3D"http://www.docbook.org=
+/tdg/en/html/personname.html"><code>personname</code></a> elements) beyond =
+that which is codified in the [<cite><a class=3D"bibref" data-link-type=3D"=
+biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib-html5" title=3D=
+"HTML5">HTML5<!---0.860764%--></a></cite>] specification. Nor does it forma=
+lly define specifications for purely presentational markup (such as underli=
+ne or strikethrough rendering). HTMLBook users are encouraged to employ the=
+ appropriate standard HTML5 phrasing elements for inline semantics when ava=
+ilable (e.g., <code>&lt;strong&gt;</code>, <code>&lt;em&gt;</code>, <code>&=
+lt;s&gt;</code>, <code>&lt;u&gt;</code>) and to use <code>&lt;span&gt;</cod=
+e> elements with custom-defined classes in other cases, as illustrated in t=
+he following examples.</div></div>
+      <section data-type=3D"sect2" id=3D"_emphasis_generally_for_italic">
+        <h3 id=3D"x5-1-emphasis-generally-for-italic"><bdi class=3D"secno">=
+5.1<!---0.860764%--> </bdi>Emphasis (generally for italic)</h3>
+        <p><strong>HTML element</strong>: <code>&lt;em&gt;</code></p>
+        <p><strong>Example:</strong></p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>I <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">em</s=
+pan>&gt;</span>love<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">=
+em</span>&gt;</span> HTML!<span class=3D"hljs-tag">&lt;/<span class=3D"hljs=
+-name">p</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_strong_generally_for_bold">
+        <h3 id=3D"x5-2-strong-generally-for-bold"><bdi class=3D"secno">5.2<=
+!---0.860764%--> </bdi>Strong (generally for bold)</h3>
+        <p><strong>HTML element</strong>: <code>&lt;strong&gt;</code></p>
+        <p><strong>Example:</strong></p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>I <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">stron=
+g</span>&gt;</span>love<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-na=
+me">strong</span>&gt;</span> HTML!<span class=3D"hljs-tag">&lt;/<span class=
+=3D"hljs-name">p</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_literal_for_inline_code_elements_=
+variables_functions_etc">
+        <h3 id=3D"x5-3-literal-for-inline-code-elements-variables-functions=
+-etc"><bdi class=3D"secno">5.3<!---0.860764%--> </bdi>Literal (for inline c=
+ode elements: variables, functions, etc.)</h3>
+        <p><strong>HTML element</strong>: <code>&lt;code&gt;</code></p>
+        <p><strong>Example:</strong></p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>Enter <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">c=
+ode</span>&gt;</span>echo "Hello World"<span class=3D"hljs-tag">&lt;/<span =
+class=3D"hljs-name">code</span>&gt;</span> on the command line<span class=
+=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</span>&gt;</span></code></pr=
+e>
+      </section>
+      <section data-type=3D"sect2" id=3D"_general_purpose_phrase_markup_for=
+_other_styling_underline_strikethrough_etc">
+        <h3 id=3D"x5-4-general-purpose-phrase-markup-for-other-styling"><bd=
+i class=3D"secno">5.4<!---0.860764%--> </bdi>General-purpose phrase markup =
+for other styling</h3>
+        <p><strong>HTML element</strong>: <code>&lt;span&gt;</code></p>
+        <p><strong>Example:</strong></p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>Use your own class attributes for custom styling for formattin=
+g=20
+like <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">span</span> <sp=
+an class=3D"hljs-attr">class</span>=3D<span class=3D"hljs-string">"underlin=
+e"</span>&gt;</span>underlined text<span class=3D"hljs-tag">&lt;/<span clas=
+s=3D"hljs-name">span</span>&gt;</span><span class=3D"hljs-tag">&lt;/<span c=
+lass=3D"hljs-name">p</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_footnote_endnote">
+        <h3 id=3D"x5-5-footnote-endnote"><bdi class=3D"secno">5.5<!---0.860=
+764%--> </bdi>Footnote, endnote</h3>
+        <p><strong>HTML element</strong>: <code>&lt;span&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"foot=
+note"</code></p>
+        <p><strong>Content model</strong>: text and/or zero or more <a href=
+=3D"http://oreillymedia.github.io/HTMLBook/#inline_elements">Inline Element=
+s</a></p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>Five out of every six people who try AsciiDoc prefer it to=20
+Markdown<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">span</span> =
+<span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"f=
+ootnote"</span>&gt;</span>Totally made-up statistic<span class=3D"hljs-tag"=
+>&lt;/<span class=3D"hljs-name">span</span>&gt;</span><span class=3D"hljs-t=
+ag">&lt;/<span class=3D"hljs-name">p</span>&gt;</span></code></pre>
+        <p><strong>Notes</strong>:</p>
+        <ul>
+          <li>
+            <p>The <code>&lt;span&gt;</code> element does not accept block =
+element children (and as of April 2014, nor does any other HTML5 element th=
+at can be used in an inline context and is an acceptable semantic fit for f=
+ootnotes). If you need to include multiple blocks of content in a footnote,=
+ use <code>&lt;br/&gt;</code> elements to delimit them, e.g.:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>This is a really short paragraph.<span class=3D"hljs-tag">&lt;=
+<span class=3D"hljs-name">span</span> <span class=3D"hljs-attr">data-type</=
+span>=3D<span class=3D"hljs-string">"footnote"</span>&gt;</span>Largely bec=
+ause I like=20
+to put lots and lots of content in footnotes.<span class=3D"hljs-tag">&lt;<=
+span class=3D"hljs-name">br</span>/&gt;</span><span class=3D"hljs-tag">&lt;=
+<span class=3D"hljs-name">br</span>/&gt;</span>
+For example, let me tell you a story about my dog...<span class=3D"hljs-tag=
+">&lt;/<span class=3D"hljs-name">span</span>&gt;</span><span class=3D"hljs-=
+tag">&lt;/<span class=3D"hljs-name">p</span>&gt;</span></code></pre></li>
+          <li>
+            <p>Desired rendering of footnote content (i.e., floating/moving=
+ footnotes to the bottom of a page or end of a section, adding appropriate =
+marker symbols/numeration) should be handled by XSL/CSS stylesheet processi=
+ng.</p>
+          </li>
+        </ul>
+      </section>
+      <section data-type=3D"sect2" id=3D"_cross_references">
+        <h3 id=3D"x5-6-cross-references"><bdi class=3D"secno">5.6<!---0.860=
+764%--> </bdi>Cross-references</h3>
+        <p><strong>HTML element</strong>: <code>&lt;a&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"xref=
+"</code> <span data-type=3D"footnote">(From [<cite><a class=3D"bibref" data=
+-link-type=3D"biblio" href=3D"http://oreillymedia.github.io/HTMLBook/#bib-d=
+ocbook" title=3D"The DocBook Document Type">DOCBOOK<!---0.860764%--></a></c=
+ite>])</span>; an <code>href</code> attribute that should point to the id o=
+f a
+local HTMLBook resource referenced; <code>data-xrefstyle</code> (optional) =
+for specifying the style of XREF</p>
+        <p><strong>Example:</strong></p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">sectio=
+n</span> <span class=3D"hljs-attr">id</span>=3D<span class=3D"hljs-string">=
+"html5"</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=3D"=
+hljs-string">"chapter"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</spa=
+n>Intro to HTML5<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span=
+>As I said at the beginning of <span class=3D"hljs-tag">&lt;<span class=3D"=
+hljs-name">a</span> <span class=3D"hljs-attr">data-type</span>=3D<span clas=
+s=3D"hljs-string">"xref"</span> <span class=3D"hljs-attr">href</span>=3D<sp=
+an class=3D"hljs-string">"#html5"</span>&gt;</span>Chapter 1<span class=3D"=
+hljs-tag">&lt;/<span class=3D"hljs-name">a</span>&gt;</span>, HTML5 is grea=
+t...<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</span>&gt;</s=
+pan>
+  <span class=3D"hljs-comment">&lt;!-- Blah blah blah --&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_index_term">
+        <h3 id=3D"x5-7-index-term"><bdi class=3D"secno">5.7<!---0.860764%--=
+> </bdi>Index Term</h3>
+        <p><strong>HTML element</strong>: <code>&lt;a&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>data-type=3D"inde=
+xterm"</code>; for primary index entry value, use <code>data-primary</code>=
+; for secondary index entry value, use <code>data-secondary</code>; for ter=
+tiary index entry value, use <code>data-tertiary</code>; for a "see" index =
+reference, use <code>data-see</code>; for a "see also" index reference, use=
+ <code>data-seealso</code>; for a "sort" value to indicate alphabetization,=
+ use <code>data-primary-sortas</code>, <code>data-secondary-sortas</code>, =
+or <code>data-tertiary-sortas</code>; for an "end-of-range" tag that marks =
+the end of an index range, use <code>data-startref=3D"id_of_opening_index_m=
+arker"</code> <span data-type=3D"footnote">(Semantics from [<cite><a class=
+=3D"bibref" data-link-type=3D"biblio" href=3D"http://oreillymedia.github.io=
+/HTMLBook/#bib-docbook" title=3D"The DocBook Document Type">DOCBOOK<!---0.8=
+60764%--></a></cite>])</span></p>
+        <p><strong>Content model</strong>: Empty</p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>The Atlas build system<span class=3D"hljs-tag">&lt;<span class=
+=3D"hljs-name">a</span> <span class=3D"hljs-attr">data-type</span>=3D<span =
+class=3D"hljs-string">"indexterm"</span> <span class=3D"hljs-attr">data-pri=
+mary</span>=3D<span class=3D"hljs-string">"Atlas"</span> <span class=3D"hlj=
+s-attr">data-secondary</span>=3D<span class=3D"hljs-string">"build system"<=
+/span>/&gt;</span> lets=20
+you build EPUB, Mobi, PDF, and HTML content<span class=3D"hljs-tag">&lt;/<s=
+pan class=3D"hljs-name">p</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_superscripts">
+        <h3 id=3D"x5-8-superscripts"><bdi class=3D"secno">5.8<!---0.860764%=
+--> </bdi>Superscripts</h3>
+        <p><strong>HTML element</strong>: <code>&lt;sup&gt;</code></p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>The area of a circle is =CF=80r<span class=3D"hljs-tag">&lt;<s=
+pan class=3D"hljs-name">sup</span>&gt;</span>2<span class=3D"hljs-tag">&lt;=
+/<span class=3D"hljs-name">sup</span>&gt;</span><span class=3D"hljs-tag">&l=
+t;/<span class=3D"hljs-name">p</span>&gt;</span></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_subscripts">
+        <h3 id=3D"x5-9-subscripts"><bdi class=3D"secno">5.9<!---0.860764%--=
+> </bdi>Subscripts</h3>
+        <p><strong>HTML element</strong>: <code>&lt;sub&gt;</code></p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</spa=
+n>&gt;</span>The formula for water is H<span class=3D"hljs-tag">&lt;<span c=
+lass=3D"hljs-name">sub</span>&gt;</span>2<span class=3D"hljs-tag">&lt;/<spa=
+n class=3D"hljs-name">sub</span>&gt;</span>O<span class=3D"hljs-tag">&lt;/<=
+span class=3D"hljs-name">p</span>&gt;</span></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_heading_elements">
+      <!--OddPage--><h2 id=3D"x6-heading-elements"><bdi class=3D"secno">6.<=
+!---0.860764%--> </bdi>Heading Elements</h2>
+      <section data-type=3D"sect2" id=3D"_headings">
+        <h3 id=3D"x6-1-headings"><bdi class=3D"secno">6.1<!---0.860764%--> =
+</bdi>Headings</h3>
+        <p><strong>HTML elements</strong>: <code>&lt;h1&gt;</code>, <code>&=
+lt;h2&gt;</code>, <code>&lt;h3&gt;</code>, <code>&lt;h4&gt;</code>, <code>&=
+lt;h5&gt;</code>, or <code>&lt;h6&gt;</code></p>
+        <p><strong>Content Model</strong>: text and/or zero or more <a href=
+=3D"http://oreillymedia.github.io/HTMLBook/#inline_elements">Inline Element=
+s</a></p>
+        <p><strong>Notes</strong>: Many main book components (e.g., chapter=
+s, parts, appendixes) require headings. The appropriate
+element from <code>&lt;h1&gt;</code>=E2=80=93<code>&lt;h6&gt;</code> is out=
+lined below, as well as in the corresponding documentation for these
+components:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs">book title -&gt; h1
+part title -&gt; h1
+chapter title -&gt; h1
+preface title -&gt; h1
+appendix title -&gt; h1
+colophon title -&gt; h1
+dedication title -&gt; h1
+glossary title -&gt; h1
+bibliography title -&gt; h1
+sect1 title -&gt; h1
+sect2 title -&gt; h2
+sect3 title -&gt; h3
+sect4 title -&gt; h4
+sect5 title -&gt; h5
+sidebar title -&gt; h5</code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"header_block">
+	<h3 id=3D"x6-2-header"><bdi class=3D"secno">6.2<!---0.860764%--> </bdi>Hea=
+der</h3>
+	<p><strong>HTML element</strong>: <code>&lt;header&gt;</code></p>
+	<p><strong>Content Model</strong>: A Heading element at the proper level d=
+esignated (<code>h1</code>=E2=80=93<code>h5</code>)=20
+	  for the parent Book Component, as outlined in the previous <a href=3D"ht=
+tp://oreillymedia.github.io/HTMLBook/#_headings">Headings</a> section (e.g.=
+, an <code>&lt;h1&gt;</code> for a chapter <code>&lt;header&gt;</code>); th=
+en zero or more <code>&lt;p&gt;</code> elements for subtitles or author att=
+ributions, each of which must have a <code>data-type</code> of either <code=
+>subtitle</code> or <code>author</code></p>
+	<p><strong>Example</strong>:</p>
+	<pre data-type=3D"programlisting" aria-busy=3D"false"><code class=3D"hljs =
+xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">section</span> =
+<span class=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"c=
+hapter"</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">header</span>&gt;<=
+/span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">h1</span>&gt;</s=
+pan>Chapter title<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">h1=
+</span>&gt;</span>
+    <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span> <span c=
+lass=3D"hljs-attr">data-type</span>=3D<span class=3D"hljs-string">"subtitle=
+"</span>&gt;</span>Chapter subtitle<span class=3D"hljs-tag">&lt;/<span clas=
+s=3D"hljs-name">p</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">header</span>&gt;=
+</span>
+  <span class=3D"hljs-comment">&lt;!-- Chapter content here... --&gt;</span=
+>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">section</span>&gt;<=
+/span></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_interactive_elements">
+      <!--OddPage--><h2 id=3D"x7-interactive-elements"><bdi class=3D"secno"=
+>7.<!---0.860764%--> </bdi>Interactive Elements</h2>
+      <section data-type=3D"sect2" id=3D"_video">
+        <h3 id=3D"x7-1-video"><bdi class=3D"secno">7.1<!---0.860764%--> </b=
+di>Video</h3>
+        <p><strong>HTML element</strong>: <code>&lt;video&gt;</code></p>
+        <p><strong>Example</strong>:</p>
+        <p><strong>Note</strong>: Fallback content is <em>strongly recommen=
+ded</em> for output formats that do not support HTML5 interactive content</=
+p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">video<=
+/span> <span class=3D"hljs-attr">id</span>=3D<span class=3D"hljs-string">"a=
+steroids_video"</span> <span class=3D"hljs-attr">width</span>=3D<span class=
+=3D"hljs-string">"480"</span> <span class=3D"hljs-attr">height</span>=3D<sp=
+an class=3D"hljs-string">"270"</span> <span class=3D"hljs-attr">controls</s=
+pan>=3D<span class=3D"hljs-string">"controls"</span> <span class=3D"hljs-at=
+tr">poster</span>=3D<span class=3D"hljs-string">"images/fallback_image.png"=
+</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">source</span> <span =
+class=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"video/html5_a=
+steroids.mp4"</span> <span class=3D"hljs-attr">type</span>=3D<span class=3D=
+"hljs-string">"video/mp4"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">source</span> <span =
+class=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"video/html5_a=
+steroids.ogg"</span> <span class=3D"hljs-attr">type</span>=3D<span class=3D=
+"hljs-string">"video/ogg"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">em</span>&gt;</span>=
+Sorry, the &amp;lt;video&amp;gt; element not supported in your
+  reading system. View the video online at http://example.com.<span class=
+=3D"hljs-tag">&lt;/<span class=3D"hljs-name">em</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">video</span>&gt;</s=
+pan></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_audio">
+        <h3 id=3D"x7-2-audio"><bdi class=3D"secno">7.2<!---0.860764%--> </b=
+di>Audio</h3>
+        <p><strong>HTML element</strong>: <code>&lt;audio&gt;</code></p>
+        <p><strong>Note</strong>: Fallback content is <em>strongly recommen=
+ded</em> for output formats that do not support HTML5 interactive content</=
+p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">audio<=
+/span> <span class=3D"hljs-attr">id</span>=3D<span class=3D"hljs-string">"n=
+ew_slang"</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">source</span> <span =
+class=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"audio/new_sla=
+ng.wav"</span> <span class=3D"hljs-attr">type</span>=3D<span class=3D"hljs-=
+string">"audio/wav"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">source</span> <span =
+class=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"audio/new_sla=
+ng.mp3"</span> <span class=3D"hljs-attr">type</span>=3D<span class=3D"hljs-=
+string">"audio/mp3"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">source</span> <span =
+class=3D"hljs-attr">src</span>=3D<span class=3D"hljs-string">"audionew_slan=
+g.ogg"</span> <span class=3D"hljs-attr">type</span>=3D<span class=3D"hljs-s=
+tring">"audio/ogg"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">em</span>&gt;</span>=
+Sorry, the &amp;lt;audio&amp;gt; element is not supported in your
+  reading system. Hear the audio online at http://example.com.<span class=
+=3D"hljs-tag">&lt;/<span class=3D"hljs-name">em</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">audio</span>&gt;</s=
+pan></code></pre>
+      </section>
+      <section data-type=3D"sect2" id=3D"_canvas">
+        <h3 id=3D"x7-3-canvas"><bdi class=3D"secno">7.3<!---0.860764%--> </=
+bdi>Canvas</h3>
+        <p><strong>HTML element</strong>: <code>&lt;canvas&gt;</code></p>
+        <p><strong>Notes</strong>: Should include fallbacks for environment=
+s that don=E2=80=99t support HTML5 or JavaScript (e.g., link or image).
+You may include <code>&lt;script&gt;</code> elements in your HTMLBook docum=
+ent <code>&lt;head&gt;</code> elements to include/reference JS code for
+Canvas handling.</p>
+        <p><strong>Examples</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">canvas=
+</span> <span class=3D"hljs-attr">id</span>=3D<span class=3D"hljs-string">"=
+canvas"</span> <span class=3D"hljs-attr">width</span>=3D<span class=3D"hljs=
+-string">"400"</span> <span class=3D"hljs-attr">height</span>=3D<span class=
+=3D"hljs-string">"400"</span>&gt;</span>
+ Your browser does not support the HTML 5 Canvas. See the interactive examp=
+le at http://example.com.
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">canvas</span>&gt;</=
+span></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_comments">
+      <!--OddPage--><h2 id=3D"x8-comments"><bdi class=3D"secno">8.<!---0.86=
+0764%--> </bdi>Comments</h2>
+      <p>To add comments to an HTMLBook document, either use standard HTML/=
+XML comment syntax:</p>
+      <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=3D"=
+hljs xml"><span class=3D"hljs-comment">&lt;!-- This is a comment --&gt;</sp=
+an></code></pre>
+
+      <p>Or add a <code>data-type=3D"comment"</code> attribute to any HTML =
+element, e.g.:</p>
+
+      <pre aria-busy=3D"false"><code class=3D"hljs xml"><span class=3D"hljs=
+-tag">&lt;<span class=3D"hljs-name">div</span> <span class=3D"hljs-attr">da=
+ta-type</span>=3D<span class=3D"hljs-string">"comment"</span>&gt;</span>Thi=
+s is a comment preceding a paragraph of text<span class=3D"hljs-tag">&lt;/<=
+span class=3D"hljs-name">div</span>&gt;</span>
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">p</span>&gt;</span>T=
+his is a paragraph of text <span class=3D"hljs-tag">&lt;<span class=3D"hljs=
+-name">span</span> <span class=3D"hljs-attr">data-type</span>=3D<span class=
+=3D"hljs-string">"comment"</span>&gt;</span>Inline comment in paragraph<spa=
+n class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">span</span>&gt;</span><=
+span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">p</span>&gt;</span><=
+/code></pre>
+    </section>
+    <section data-type=3D"sect1" id=3D"_metadata">
+      <!--OddPage--><h2 id=3D"x9-metadata"><bdi class=3D"secno">9.<!---0.86=
+0764%--> </bdi>Metadata</h2>
+      <section data-type=3D"sect2" id=3D"_metadata_points">
+        <h3 id=3D"x9-1-metadata-points"><bdi class=3D"secno">9.1<!---0.8607=
+64%--> </bdi>Metadata points</h3>
+        <p><strong>HTML element</strong>: <code>&lt;meta&gt;</code></p>
+        <p><strong>Attribute requirements</strong>: <code>name</code> (for =
+name of metadata point); <code>content</code> (for value of metadata point)=
+</p>
+        <p><strong>Content model</strong>: Empty</p>
+        <p><strong>Note</strong>: All <code>&lt;meta&gt;</code> elements mu=
+st be children of the <code>&lt;head&gt;</code> element of the HTML file.</=
+p>
+        <p><strong>Example</strong>:</p>
+        <pre data-type=3D"programlisting" aria-busy=3D"false"><code class=
+=3D"hljs xml"><span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">head</=
+span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">title</span>&gt;</=
+span>Title of the Book<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-nam=
+e">title</span>&gt;</span>
+  <span class=3D"hljs-tag">&lt;<span class=3D"hljs-name">meta</span> <span =
+class=3D"hljs-attr">name</span>=3D<span class=3D"hljs-string">"isbn-13"</sp=
+an> <span class=3D"hljs-attr">content</span>=3D<span class=3D"hljs-string">=
+"9781449344856"</span>/&gt;</span>
+<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name">head</span>&gt;</sp=
+an></code></pre>
+      </section>
+    </section>
+    <section data-type=3D"sect1" id=3D"_element_classification">
+      <!--OddPage--><h2 id=3D"x10-element-classification"><bdi class=3D"sec=
+no">10.<!---0.860764%--> </bdi>Element Classification</h2>
+      <section data-type=3D"sect2" id=3D"block_elements">
+        <h3 id=3D"x10-1-block-elements"><bdi class=3D"secno">10.1<!---0.860=
+764%--> </bdi>Block Elements</h3>
+        <p>In HTMLBook, the majority of elements classified by the HTML5 sp=
+ecification as <a href=3D"http://www.w3.org/TR/html5/dom.html#flow-content"=
+>Flow Content</a> (minus elements also categorized as <a href=3D"http://www=
+.w3.org/TR/html5/dom.html#heading-content">Heading Content</a>, <a href=3D"=
+http://www.w3.org/TR/html5/dom.html#phrasing-content">Phrasing Content</a>,=
+ and <a href=3D"http://www.w3.org/TR/html5/dom.html#sectioning-content">Sec=
+tioning Content</a>) are considered to be Block Elements. Here is a complet=
+e list:</p>
+        <ul>
+          <li>
+            <p>
+              <code>&lt;address&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;aside&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;audio&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;blockquote&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;canvas&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;dd&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;details&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;div&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;dl&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;embed&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;fieldset&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;figure&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;form&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;hr&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;iframe&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;map&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p><code>&lt;math&gt;</code> (In MathML vocabulary; must be nam=
+espaced under <a href=3D"http://www.w3.org/1998/Math/MathML">http://www.w3.=
+org/1998/Math/MathML</a>)</p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;menu&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;object&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;ol&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;p&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;pre&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p><code>&lt;svg&gt;</code> (In SVG vocabulary; must be namespa=
+ced under <a href=3D"http://www.w3.org/2000/svg">http://www.w3.org/2000/svg=
+</a>)</p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;table&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;ul&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;video&gt;</code>
+            </p>
+          </li>
+        </ul>
+      </section>
+      <section data-type=3D"sect2" id=3D"inline_elements">
+        <h3 id=3D"x10-2-inline-elements"><bdi class=3D"secno">10.2<!---0.86=
+0764%--> </bdi>Inline Elements</h3>
+        <p>In HTMLBook, the majority of elements classified by the HTML5 sp=
+ecification as <a href=3D"http://www.w3.org/TR/html5/dom.html#phrasing-cont=
+ent">Phrasing Content</a> are considered to be Inline Elements. Here is a c=
+omplete list:</p>
+        <ul>
+          <li>
+            <p>
+              <code>&lt;a&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;abbr&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;b&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;bdi&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;bdo&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;br&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;button&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;command&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;cite&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;code&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;datalist&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;del&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;dfn&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;dt&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;em&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;i&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;input&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;img&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;ins&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;kbd&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;keygen&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;label&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;mark&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;meter&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;output&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;progress&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;q&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;ruby&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;s&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;samp&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;select&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;small&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;span&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;strong&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;sub&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;sup&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;textarea&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;time&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;u&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;var&gt;</code>
+            </p>
+          </li>
+          <li>
+            <p>
+              <code>&lt;wbr&gt;</code>
+            </p>
+          </li>
+        </ul>
+      </section>
+    </section>
+ =20
+
+<section id=3D"references" class=3D"appendix"><!--OddPage--><h2 id=3D"a-ref=
+erences"><bdi class=3D"secno">A.<!---0.860764%--> </bdi>References<!---0.86=
+0764%--></h2><section id=3D"normative-references">
+        <h3 id=3D"a-1-normative-references"><bdi class=3D"secno">A.1<!---0.=
+860764%--> </bdi>Normative references<!---0.860764%--></h3>
+      <dl class=3D"bibliography">
+        <dt id=3D"bib-html5">[HTML5<!---0.860764%-->]</dt><dd><a href=3D"ht=
+tps://www.w3.org/TR/html5/"><cite>HTML5</cite></a>. Ian Hickson; Robin Berj=
+on; Steve Faulkner; Travis Leithead; Erika Doyle Navara; Theresa O'Connor; =
+Silvia Pfeiffer.  W3C. 27 March 2018. W3C Recommendation. URL: <a href=3D"h=
+ttps://www.w3.org/TR/html5/">https://www.w3.org/TR/html5/</a><!---0.860764%=
+--></dd><!---0.860764%-->
+      </dl></section><section id=3D"informative-references">
+        <h3 id=3D"a-2-informative-references"><bdi class=3D"secno">A.2<!---=
+0.860764%--> </bdi>Informative references<!---0.860764%--></h3>
+      <dl class=3D"bibliography">
+        <dt id=3D"bib-dita">[DITA<!---0.860764%-->]</dt><dd><a href=3D"http=
+://docs.oasis-open.org/dita/v1.2/spec/DITA1.2-spec.html"><cite>Darwin Infor=
+mation Typing Architecture (DITA) Version 1.2</cite></a>. Kristen James Ebe=
+rlein; Robert D. Anderson; Gershon Joseph. URL: <a href=3D"http://docs.oasi=
+s-open.org/dita/v1.2/spec/DITA1.2-spec.html">http://docs.oasis-open.org/dit=
+a/v1.2/spec/DITA1.2-spec.html</a><!---0.860764%--></dd><dt id=3D"bib-docboo=
+k">[DOCBOOK<!---0.860764%-->]</dt><dd><a href=3D"http://www.docbook.org/spe=
+cs/docbook-4.5-spec.html"><cite>The DocBook Document Type</cite></a>. Norma=
+n Walsh.  OASIS. URL: <a href=3D"http://www.docbook.org/specs/docbook-4.5-s=
+pec.html">http://www.docbook.org/specs/docbook-4.5-spec.html</a><!---0.8607=
+64%--></dd><dt id=3D"bib-epub3">[EPUB3<!---0.860764%-->]</dt><dd><a href=3D=
+"http://www.idpf.org/epub/30/spec/"><cite>EPUB 3 Overview</cite></a>.  IDPF=
+. URL: <a href=3D"http://www.idpf.org/epub/30/spec/">http://www.idpf.org/ep=
+ub/30/spec/</a><!---0.860764%--></dd><dt id=3D"bib-epub3ssv">[EPUB3SSV<!---=
+0.860764%-->]</dt><dd><a href=3D"http://www.idpf.org/epub/vocab/structure/"=
+><cite>EPUB 3 Structural Semantics Vocabulary</cite></a>.  IDPF. URL: <a hr=
+ef=3D"http://www.idpf.org/epub/vocab/structure/">http://www.idpf.org/epub/v=
+ocab/structure/</a><!---0.860764%--></dd><dt id=3D"bib-epubindex">[EPUBINDE=
+X<!---0.860764%-->]</dt><dd><a href=3D"http://www.idpf.org/epub/idx/"><cite=
+>EPUB Indexes 1.0</cite></a>.  IDPF. URL: <a href=3D"http://www.idpf.org/ep=
+ub/idx/">http://www.idpf.org/epub/idx/</a><!---0.860764%--></dd><!---0.8607=
+64%-->
+      </dl></section></section><p role=3D"navigation" id=3D"back-to-top"><a=
+ href=3D"http://oreillymedia.github.io/HTMLBook/#title"><abbr title=3D"Back=
+ to Top">=E2=86=91</abbr></a></p></body></html>
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4a0118e1-4a80-4cfa-bb34-c0c286d47aea@mhtml.blink
+
+@charset "utf-8";
+
+.issue-label { text-transform: initial; }
+
+.warning > p:first-child { margin-top: 0px; }
+
+.warning { padding: 0.5em; border-left-width: 0.5em; border-left-style: sol=
+id; }
+
+span.warning { padding: 0.1em 0.5em 0.15em; }
+
+.issue.closed span.issue-number { text-decoration: line-through; }
+
+.warning { border-color: rgb(255, 17, 17); border-width: 0.2em; border-styl=
+e: solid; background: rgb(251, 233, 233); }
+
+.warning-title::before { content: "=E2=9A=A0"; font-size: 1.3em; float: lef=
+t; padding-right: 0.3em; margin-top: -0.3em; }
+
+li.task-list-item { list-style: none; }
+
+input.task-list-item-checkbox { margin: 0px 0.35em 0.25em -1.6em; vertical-=
+align: middle; }
+
+.issue a.respec-gh-label { padding: 5px; margin: 0px 2px; font-size: 10px; =
+text-transform: none; text-decoration: none; font-weight: bold; border-radi=
+us: 4px; position: relative; bottom: 2px; border: none; display: inline-blo=
+ck; }
+
+.issue a.respec-label-dark { color: rgb(255, 255, 255); background-color: r=
+gb(0, 0, 0); }
+
+.issue a.respec-label-light { color: rgb(0, 0, 0); background-color: rgb(25=
+5, 255, 255); }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6776bd8d-1f64-4f45-a9c9-51fa8a63f0a2@mhtml.blink
+
+@charset "utf-8";
+
+dfn { cursor: pointer; }
+
+.dfn-panel { position: absolute; left: var(--left); top: var(--top); z-inde=
+x: 35; height: auto; width: max-content; max-width: 300px; max-height: 500p=
+x; overflow: auto; padding: 0.5em 0.75em; font: small "Helvetica Neue", san=
+s-serif, "Droid Sans Fallback"; background: rgb(221, 221, 221); color: blac=
+k; border: 0.2em outset; }
+
+.dfn-panel * { margin: 0px; }
+
+.dfn-panel > b { display: block; }
+
+.dfn-panel ul a[href] { color: black; }
+
+.dfn-panel a:not(:hover) { text-decoration: none !important; border-bottom:=
+ none !important; }
+
+.dfn-panel a[href]:hover { border-bottom-width: 1px; }
+
+.dfn-panel > b + b { margin-top: 0.25em; }
+
+.dfn-panel ul { padding: 0px; }
+
+.dfn-panel li { list-style: inside; }
+
+.dfn-panel.docked { display: inline-block; position: fixed; left: 0.5em; to=
+p: unset; bottom: 2em; margin: 0px auto; max-width: calc(((100vw - 1.5em) -=
+ 0.5em) - 0.4em); max-height: 30vh; }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d20eb249-ec9f-45b1-8bb6-786db9ccebdd@mhtml.blink
+
+@charset "utf-8";
+
+span[data-type=3D"footnote"] { background-color: rgb(211, 211, 211); border=
+: 1px solid black; border-radius: 0.25em; padding: 1px 3px; font-size: smal=
+ler; }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-683b3f26-e553-46a0-a1e6-18dc9870d659@mhtml.blink
+
+@charset "utf-8";
+
+#respec-ui { position: fixed; display: flex; flex-direction: row-reverse; t=
+op: 20px; right: 20px; width: 202px; text-align: right; z-index: 9000; }
+
+#respec-pill, .respec-info-button { background: rgb(255, 255, 255); height:=
+ 2.5em; color: rgb(120, 120, 120); border: 1px solid rgb(204, 204, 204); bo=
+x-shadow: rgba(100, 100, 100, 0.5) 1px 1px 8px 0px; }
+
+.respec-info-button { border: none; opacity: 0.75; border-radius: 2em; marg=
+in-right: 1em; min-width: 3.5em; }
+
+.respec-info-button:focus, .respec-info-button:hover { opacity: 1; transiti=
+on: opacity 0.2s ease 0s; }
+
+#respec-pill:disabled { font-size: 2.8px; text-indent: -9999em; border-widt=
+h: 1.1em; border-style: solid; border-color: rgba(40, 40, 40, 0.2) rgba(40,=
+ 40, 40, 0.2) rgba(40, 40, 40, 0.2) rgb(255, 255, 255); transform: translat=
+eZ(0px); animation: 0.5s linear 0s infinite normal none running respec-spin=
+; box-shadow: none; }
+
+#respec-pill:disabled, #respec-pill:disabled::after { border-radius: 50%; w=
+idth: 10em; height: 10em; }
+
+@keyframes respec-spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.respec-hidden { visibility: hidden; opacity: 0; transition: visibility 0s =
+ease 0.2s, opacity 0.2s linear 0s; }
+
+.respec-visible { visibility: visible; opacity: 1; transition: opacity 0.2s=
+ linear 0s; }
+
+#respec-pill:hover, #respec-pill:focus { color: rgb(0, 0, 0); background-co=
+lor: rgb(245, 245, 245); transition: color 0.2s ease 0s; }
+
+#respec-menu { position: absolute; margin: 32px 0px 0px; padding: 0px; font=
+-family: sans-serif; background: rgb(255, 255, 255); box-shadow: rgba(100, =
+100, 100, 0.5) 1px 1px 8px 0px; width: 200px; display: none; text-align: le=
+ft; font-size: 0.8em; }
+
+#respec-menu:not([hidden]) { display: block; }
+
+#respec-menu li { list-style-type: none; margin: 0px; padding: 0px; }
+
+.respec-save-buttons { display: grid; grid-template-columns: repeat(auto-fi=
+ll, minmax(47%, 2fr)); gap: 0.5cm; padding: 0.5cm; }
+
+.respec-save-button:link { padding-top: 16px; color: rgb(240, 240, 240); ba=
+ckground: rgb(42, 90, 168); justify-self: stretch; height: 1cm; text-decora=
+tion: none; text-align: center; font-size: inherit; border: none; border-ra=
+dius: 0.2cm; }
+
+.respec-save-button:link:hover { color: white; background: rgb(42, 90, 168)=
+; padding: 16px 0px 0px; margin: 0px; border: 0px; }
+
+#respec-ui button:focus, #respec-pill:focus, .respec-option:focus { outline=
+: none 0px; }
+
+#respec-pill-error { background-color: red; color: white; }
+
+#respec-pill-warning { background-color: orange; color: white; }
+
+.respec-warning-list, .respec-error-list { margin: 0px; padding: 0px; list-=
+style: none; font-family: sans-serif; background-color: rgb(255, 251, 230);=
+ font-size: 0.85em; }
+
+.respec-warning-list > li, .respec-error-list > li { padding: 0.4em 0.7em; =
+}
+
+.respec-warning-list > li::before { content: "=E2=9A=A0=EF=B8=8F"; padding-=
+right: 0.5em; }
+
+.respec-warning-list p, .respec-error-list p { padding: 0px; margin: 0px; }
+
+.respec-warning-list li { color: rgb(92, 59, 0); border-bottom: thin solid =
+rgb(255, 245, 194); }
+
+.respec-error-list, .respec-error-list li { background-color: rgb(255, 240,=
+ 240); }
+
+.respec-error-list li::before { content: "=F0=9F=92=A5"; padding-right: 0.5=
+em; }
+
+.respec-error-list li { padding: 0.4em 0.7em; color: rgb(92, 59, 0); border=
+-bottom: thin solid rgb(255, 215, 215); }
+
+.respec-error-list li > p { margin: 0px; padding: 0px; display: inline-bloc=
+k; }
+
+#respec-overlay { display: block; position: fixed; z-index: 10000; top: 0px=
+; left: 0px; height: 100%; width: 100%; background: rgb(0, 0, 0); }
+
+.respec-show-overlay { transition: opacity 0.2s linear 0s; opacity: 0.5; }
+
+.respec-hide-overlay { transition: opacity 0.2s linear 0s; opacity: 0; }
+
+.respec-modal { display: block; position: fixed; z-index: 11000; top: 10%; =
+background: rgb(255, 255, 255); border: 5px solid rgb(102, 102, 102); min-w=
+idth: 20%; width: 79%; padding: 0px; max-height: 80%; overflow-y: auto; mar=
+gin: 0px -0.5cm; }
+
+@media screen and (min-width: 78em) {
+  .respec-modal { width: 62%; }
+}
+
+.respec-modal h3 { margin: 0px; padding: 0.2em; text-align: center; color: =
+black; background: linear-gradient(rgb(238, 238, 238) 0%, rgb(238, 238, 238=
+) 50%, rgb(204, 204, 204) 100%); font-size: 1em; }
+
+.respec-modal .inside div p { padding-left: 1cm; }
+
+#respec-menu button.respec-option { background: white; border: none; width:=
+ 100%; text-align: left; font-size: inherit; padding: 1.2em; }
+
+#respec-menu button.respec-option:hover, #respec-menu button:focus { backgr=
+ound-color: rgb(238, 238, 238); }
+
+.respec-cmd-icon { padding-right: 0.5em; }
+
+#respec-ui button.respec-option:last-child { border: none; border-radius: i=
+nherit; }
+
+.respec-button-copy-paste { position: absolute; height: 28px; width: 40px; =
+cursor: pointer; background-image: linear-gradient(rgb(252, 252, 252), rgb(=
+238, 238, 238)); border-width: 1px 1px 1px 0px; border-top-style: solid; bo=
+rder-right-style: solid; border-bottom-style: solid; border-top-color: rgb(=
+144, 184, 222); border-right-color: rgb(144, 184, 222); border-bottom-color=
+: rgb(144, 184, 222); border-image: initial; border-left-style: initial; bo=
+rder-left-color: initial; border-radius: 0px 0px 3px; user-select: none; -w=
+ebkit-appearance: none; top: 0px; left: 127px; }
+
+#specref-ui { margin: 0px 2% 0.5cm; }
+
+#specref-ui header { font-size: 0.7em; background-color: rgb(238, 238, 238)=
+; text-align: center; padding: 0.2cm; margin-bottom: 0.5cm; border-radius: =
+0px 0px 0.2cm 0.2cm; }
+
+#specref-ui header h1 { padding: 0px; margin: 0px; color: black; }
+
+#specref-ui p { padding: 0px; margin: 0px; font-size: 0.8em; text-align: ce=
+nter; }
+
+#specref-ui p.state { margin: 1cm; }
+
+#specref-ui .searchcomponent { font-size: 16px; display: grid; grid-templat=
+e-columns: auto 2cm; }
+
+#specref-ui .searchcomponent:focus { }
+
+#specref-ui input, #specref-ui button { border: 0px; padding: 6px 12px; }
+
+#specref-ui label { font-size: 0.6em; grid-column: 1 / 3; text-align: right=
+; }
+
+#specref-ui input[type=3D"search"] { -webkit-appearance: none; font-size: 1=
+6px; border-radius: 0.1cm 0px 0px 0.1cm; border: 1px solid rgb(204, 204, 20=
+4); }
+
+#specref-ui button[type=3D"submit"] { color: white; border-radius: 0px 0.1c=
+m 0.1cm 0px; background-color: rgb(51, 122, 183); }
+
+#specref-ui button[type=3D"submit"]:hover { background-color: rgb(40, 96, 1=
+44); border-color: rgb(32, 77, 116); }
+
+#specref-ui .result-stats { margin: 0px; padding: 0px; color: rgb(128, 128,=
+ 128); font-size: 0.7em; font-weight: bold; }
+
+#specref-ui .specref-results { font-size: 0.8em; }
+
+#specref-ui .specref-results dd + dt { margin-top: 0.51cm; }
+
+#specref-ui .specref-results a { text-transform: capitalize; }
+
+#specref-ui .specref-results .authors { display: block; color: rgb(0, 102, =
+33); }
+
+@media print {
+  #respec-ui { display: none; }
+}
+
+#xref-ui { width: 100%; min-height: 550px; height: 100%; overflow: hidden; =
+padding: 0px; margin: 0px; border: 0px; }
+
+#xref-ui:not(.ready) { background: url("https://respec.org/xref/loader.gif"=
+) center center no-repeat; }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-412eb6d0-0290-4f6d-bcd4-35dfc2c54b1b@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes pop {=20
+  0% { transform: scale(1, 1); }
+  25% { transform: scale(1.25, 1.25); opacity: 0.75; }
+  100% { transform: scale(1, 1); }
+}
+
+.hljs { background: transparent !important; }
+
+h1 abbr, h2 abbr, h3 abbr, h4 abbr, h5 abbr, h6 abbr, a abbr { border: none=
+; }
+
+dfn { font-weight: bold; }
+
+a.internalDFN { color: inherit; border-bottom: 1px solid rgb(153, 153, 204)=
+; text-decoration: none; }
+
+a.externalDFN { color: inherit; border-bottom: 1px dotted rgb(204, 204, 204=
+); text-decoration: none; }
+
+a.bibref { text-decoration: none; }
+
+.respec-offending-element:target { animation: 0.25s ease-in-out 0s 1 normal=
+ none running pop; }
+
+.respec-offending-element, a[href].respec-offending-element { text-decorati=
+on: underline wavy red; }
+
+@supports not (text-decoration: red wavy underline) {
+  .respec-offending-element:not(pre) { display: inline-block; }
+  .respec-offending-element { background: url("data:image/gif;base64,R0lGOD=
+dhBAADAPEAANv///8AAP///wAAACwAAAAABAADAEACBZQjmIAFADs=3D") center bottom re=
+peat-x; }
+}
+
+#references :target { background: rgb(234, 243, 255); animation: 0.4s ease-=
+in-out 0s 1 normal none running pop; }
+
+cite .bibref { font-style: normal; }
+
+code { color: rgb(200, 53, 0); }
+
+th code { color: inherit; }
+
+a[href].orcid { padding-left: 4px; padding-right: 4px; }
+
+a[href].orcid > svg { margin-bottom: -2px; }
+
+.toc a, .tof a { text-decoration: none; }
+
+a .secno, a .figno { color: rgb(0, 0, 0); }
+
+ul.tof, ol.tof { list-style: outside none none; }
+
+.caption { margin-top: 0.5em; font-style: italic; }
+
+table.simple { border-spacing: 0px; border-collapse: collapse; border-botto=
+m: 3px solid rgb(0, 90, 156); }
+
+.simple th { background: rgb(0, 90, 156); color: rgb(255, 255, 255); paddin=
+g: 3px 5px; text-align: left; }
+
+.simple th a { color: rgb(255, 255, 255); padding: 3px 5px; text-align: lef=
+t; }
+
+.simple th[scope=3D"row"] { background: inherit; color: inherit; border-top=
+: 1px solid rgb(221, 221, 221); }
+
+.simple td { padding: 3px 10px; border-top: 1px solid rgb(221, 221, 221); }
+
+.simple tr:nth-child(2n) { background: rgb(240, 246, 255); }
+
+.section dd > p:first-child { margin-top: 0px; }
+
+.section dd > p:last-child { margin-bottom: 0px; }
+
+.section dd { margin-bottom: 1em; }
+
+.section dl.attrs dd, .section dl.eldef dd { margin-bottom: 0px; }
+
+#issue-summary > ul, .respec-dfn-list { column-count: 2; }
+
+#issue-summary li, .respec-dfn-list li { list-style: none; }
+
+details.respec-tests-details { margin-left: 1em; display: inline-block; ver=
+tical-align: top; }
+
+details.respec-tests-details > * { padding-right: 2em; }
+
+details.respec-tests-details[open] { z-index: 999999; position: absolute; b=
+order: thin solid rgb(202, 211, 226); border-radius: 0.3em; background-colo=
+r: white; padding-bottom: 0.5em; }
+
+details.respec-tests-details[open] > summary { border-bottom: thin solid rg=
+b(202, 211, 226); padding-left: 1em; margin-bottom: 1em; line-height: 2em; =
+}
+
+details.respec-tests-details > ul { width: 100%; margin-top: -0.3em; }
+
+details.respec-tests-details > li { padding-left: 1em; }
+
+a[href].self-link:hover { opacity: 1; text-decoration: none; background-col=
+or: transparent; }
+
+h2, h3, h4, h5, h6 { position: relative; }
+
+aside.example .marker > a.self-link { color: inherit; }
+
+h2 > a.self-link, h3 > a.self-link, h4 > a.self-link, h5 > a.self-link, h6 =
+> a.self-link { border: none; color: inherit; font-size: 83%; height: 2em; =
+left: -1.6em; opacity: 0.5; position: absolute; text-align: center; text-de=
+coration: none; top: 0px; transition: opacity 0.2s ease 0s; width: 2em; }
+
+h2 > a.self-link::before, h3 > a.self-link::before, h4 > a.self-link::befor=
+e, h5 > a.self-link::before, h6 > a.self-link::before { content: "=C2=A7"; =
+display: block; }
+
+@media (max-width: 767px) {
+  dd { margin-left: 0px; }
+  h2 > a.self-link, h3 > a.self-link, h4 > a.self-link, h5 > a.self-link, h=
+6 > a.self-link { left: auto; top: auto; }
+}
+
+@media print {
+  .removeOnSave { display: none; }
+}
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e6dd3216-f4d0-41f9-8d44-0468922480f8@mhtml.blink
+
+@charset "utf-8";
+
+.hljs { display: block; overflow-x: auto; padding: 0.5em; color: rgb(56, 58=
+, 66); background: rgb(250, 250, 250); }
+
+.hljs-comment, .hljs-quote { color: rgb(160, 161, 167); font-style: italic;=
+ }
+
+.hljs-doctag, .hljs-keyword, .hljs-formula { color: rgb(166, 38, 164); }
+
+.hljs-section, .hljs-name, .hljs-selector-tag, .hljs-deletion, .hljs-subst =
+{ color: rgb(228, 86, 73); }
+
+.hljs-literal { color: rgb(1, 132, 187); }
+
+.hljs-string, .hljs-regexp, .hljs-addition, .hljs-attribute, .hljs-meta-str=
+ing { color: rgb(80, 161, 79); }
+
+.hljs-built_in, .hljs-class .hljs-title { color: rgb(193, 132, 1); }
+
+.hljs-attr, .hljs-variable, .hljs-template-variable, .hljs-type, .hljs-sele=
+ctor-class, .hljs-selector-attr, .hljs-selector-pseudo, .hljs-number { colo=
+r: rgb(152, 104, 1); }
+
+.hljs-symbol, .hljs-bullet, .hljs-link, .hljs-meta, .hljs-selector-id, .hlj=
+s-title { color: rgb(64, 120, 242); }
+
+.hljs-emphasis { font-style: italic; }
+
+.hljs-strong { font-weight: bold; }
+
+.hljs-link { text-decoration: underline; }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.w3.org/StyleSheets/TR/2016/base.css
+
+@charset "utf-8";
+
+body { counter-reset: example 0 figure 0 issue 0; max-width: 50em; margin: =
+0px auto; padding: 1.6em 1.5em 2em calc(26px + 1.5em); line-height: 1.5; fo=
+nt-family: sans-serif; widows: 2; orphans: 2; overflow-wrap: break-word; co=
+lor: black; background: left top / 25px no-repeat fixed white; }
+
+div.head { margin-bottom: 1em; }
+
+div.head hr { border-style: solid; }
+
+div.head h1 { font-weight: bold; margin: 0px 0px 0.1em; font-size: 220%; }
+
+div.head h2 { margin-bottom: 1.5em; }
+
+.head p:not(.copyright):first-child { margin: 0px; }
+
+.head p:not(.copyright):first-child > a, .head > a:first-child { float: rig=
+ht; margin: 0.4rem 0px 0.2rem 0.4rem; }
+
+.head img[src*=3D"logos/W3C"] { display: block; border-style: solid; border=
+-color: rgb(26, 94, 154); border-image: initial; border-width: 0.65rem 0.7r=
+em 0.6rem; border-radius: 0.4rem; background: rgb(26, 94, 154); color: whit=
+e; font-weight: bold; }
+
+.head a:hover > img[src*=3D"logos/W3C"], .head a:focus > img[src*=3D"logos/=
+W3C"] { opacity: 0.8; }
+
+.head a:active > img[src*=3D"logos/W3C"] { background: rgb(204, 0, 0); bord=
+er-color: rgb(204, 0, 0); }
+
+p.copyright, p.copyright small { font-size: small; }
+
+@media print {
+  #toc-nav { display: none; }
+}
+
+@media not print {
+  #toc-nav { position: fixed; z-index: 2; bottom: 0px; left: 0px; margin: 0=
+px; min-width: 1.33em; border-top-right-radius: 2rem; box-shadow: 0px 0px 2=
+px; font-size: 1.5em; color: black; }
+  #toc-nav > a { display: block; white-space: nowrap; height: 1.33em; paddi=
+ng: 0.1em 0.3em; margin: 0px; box-shadow: 0px 0px 2px; border: none; border=
+-top-right-radius: 1.33em; background: white; }
+  #toc-nav > #toc-jump { padding-bottom: 2em; margin-bottom: -1.9em; }
+  #toc-nav > a:hover, #toc-nav > a:focus { background: rgb(248, 248, 248); =
+}
+  #toc-nav > a:not(:hover):not(:focus) { color: rgb(112, 112, 112); }
+  #toc-nav > a[href=3D"#toc"]:not(:hover):focus:last-child { padding-bottom=
+: 1.5rem; }
+  #toc-nav:not(:hover) > a:not(:focus) > span + span { display: none; }
+  #toc-nav > a > span + span { padding-right: 0.2em; }
+  #toc-toggle-inline { vertical-align: 0.05em; font-size: 80%; color: rgba(=
+82, 107, 122, 0.7); border-style: none; background: transparent; position: =
+relative; }
+  #toc-toggle-inline:hover:not(:active), #toc-toggle-inline:focus:not(:acti=
+ve) { text-shadow: silver 1px 1px; top: -1px; left: -1px; }
+  #toc-nav :active { color: rgb(204, 0, 0); }
+}
+
+@media screen {
+  body.toc-sidebar #toc { position: fixed; top: 0px; bottom: 0px; left: 0px=
+; width: 23.5em; max-width: calc((100% - 2em) - 26px); overflow: auto; padd=
+ing: 0px 1em 0px calc(1em + 26px); background-image: inherit; background-po=
+sition: inherit; background-size: inherit; background-repeat: inherit; back=
+ground-attachment: inherit; background-origin: inherit; background-clip: in=
+herit; background-color: rgb(247, 248, 249); z-index: 1; box-shadow: rgba(0=
+, 0, 0, 0.1) -0.1em 0px 0.25em inset; }
+  body.toc-sidebar #toc h2 { margin-top: 0.8rem; font-variant: all-small-ca=
+ps; text-transform: lowercase; font-weight: bold; color: rgba(82, 107, 122,=
+ 0.7); }
+  body.toc-sidebar #toc-jump:not(:focus) { width: 0px; height: 0px; padding=
+: 0px; position: absolute; overflow: hidden; }
+}
+
+@media screen and (max-width: 28em) {
+  body.toc-sidebar { overflow: hidden; }
+}
+
+@media screen and (min-width: 78em) {
+  body:not(.toc-inline) #toc { position: fixed; top: 0px; bottom: 0px; left=
+: 0px; width: 23.5em; overflow: auto; padding: 0px 1em 0px calc(1em + 26px)=
+; background-image: inherit; background-position: inherit; background-size:=
+ inherit; background-repeat: inherit; background-attachment: inherit; backg=
+round-origin: inherit; background-clip: inherit; background-color: rgb(247,=
+ 248, 249); z-index: 1; box-shadow: rgba(0, 0, 0, 0.1) -0.1em 0px 0.25em in=
+set; }
+  body:not(.toc-inline) #toc h2 { margin-top: 0.8rem; font-variant: all-sma=
+ll-caps; text-transform: lowercase; font-weight: bold; color: rgba(82, 107,=
+ 122, 0.7); }
+  body:not(.toc-inline) { padding-left: 29em; }
+  body:not(.toc-inline) #toc-jump:not(:focus) { width: 0px; height: 0px; pa=
+dding: 0px; position: absolute; overflow: hidden; }
+}
+
+@media screen and (min-width: 90em) {
+  body:not(.toc-inline) { margin: 0px 4em; }
+}
+
+h1, h2, h3, h4, h5, h6, dt { break-after: avoid; break-inside: avoid; font-=
+style: normal; font-variant: normal; font-weight: normal; font-stretch: nor=
+mal; font-size: 100%; font-family: inherit; line-height: 1.2; hyphens: manu=
+al; }
+
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
+
+h1, h2, h3 { color: rgb(0, 90, 156); background: transparent; }
+
+h1 { font-size: 170%; }
+
+h2 { font-size: 140%; }
+
+h3 { font-size: 120%; }
+
+h4 { font-weight: bold; }
+
+h5 { font-style: italic; }
+
+h6 { font-variant: small-caps; }
+
+dt { font-weight: bold; }
+
+h1 + h2, #subtitle { margin-top: 0px; }
+
+h2 + h3, h3 + h4, h4 + h5, h5 + h6 { margin-top: 1.2em; }
+
+:not(.head) > :not(.head) + hr { font-size: 1.5em; text-align: center; marg=
+in: 1em auto; height: auto; border: 0px solid transparent; background: tran=
+sparent; }
+
+:not(.head) > hr::before { content: "=E2=9C=A7=E2=80=83=E2=80=83=E2=9C=A7=
+=E2=80=83=E2=80=83=E2=9C=A7"; }
+
+p { margin: 1em 0px; }
+
+dd > p:first-child, li > p:first-child { margin-top: 0px; }
+
+ul, ol { margin-left: 0px; padding-left: 2em; }
+
+li { margin: 0.25em 0px 0.5em; padding: 0px; }
+
+dl dd { margin: 0px 0px 0.5em 2em; }
+
+.head dd + dd { margin-top: -0.5em; }
+
+ol.algorithm ol:not(.algorithm), .algorithm > ol ol:not(.algorithm) { borde=
+r-left: 0.5em solid rgb(221, 238, 255); }
+
+dl.switch > dd > ol.only { margin-left: 0px; }
+
+dl.switch > dd > ol.algorithm { margin-left: -2em; }
+
+dl.switch { padding-left: 2em; }
+
+dl.switch > dt { text-indent: -1.5em; margin-top: 1em; }
+
+dl.switch > dt + dt { margin-top: 0px; }
+
+dl.switch > dt::before { content: "=E2=86=AA"; padding: 0px 0.5em 0px 0px; =
+display: inline-block; width: 1em; text-align: right; line-height: 0.5em; }
+
+dfn { font-weight: bolder; }
+
+a > i { font-style: normal; }
+
+dt dfn code, code.idl { font-size: inherit; }
+
+dfn var { font-style: normal; }
+
+del { color: red; text-decoration: line-through; }
+
+ins { color: rgb(0, 136, 0); text-decoration: underline; }
+
+sup { vertical-align: super; font-size: 80%; }
+
+pre, code, samp { font-family: Menlo, Consolas, "DejaVu Sans Mono", Monaco,=
+ monospace; font-size: 0.9em; break-inside: avoid; hyphens: none; text-tran=
+sform: none; text-align: start; }
+
+pre code, code code { font-size: 100%; }
+
+pre { margin-top: 1em; margin-bottom: 1em; overflow: auto; }
+
+a[href] { color: rgb(3, 69, 117); text-decoration: none; border-bottom: 1px=
+ solid rgb(112, 112, 112); padding: 0px 1px; margin: 0px -1px; }
+
+a:visited { border-bottom-color: rgb(187, 187, 187); }
+
+a[href]:focus, a[href]:hover { background: rgba(191, 191, 191, 0.25); borde=
+r-bottom-width: 3px; margin-bottom: -2px; }
+
+a[href]:active { color: rgb(204, 0, 0); border-color: rgb(204, 0, 0); }
+
+.head p:not(.copyright) > a, .head > a:first-child { border: none; text-dec=
+oration: none; background: transparent; }
+
+img { border-style: none; }
+
+figure, .figure, .sidefigure { break-inside: avoid; text-align: center; mar=
+gin: 2.5em 0px; }
+
+.figure img, .sidefigure img, figure img, .figure object, .sidefigure objec=
+t, figure object { max-width: 100%; margin: auto; height: auto; }
+
+.figure pre, .sidefigure pre, figure pre { text-align: left; display: table=
+; margin: 1em auto; }
+
+.figure table, figure table { margin: auto; }
+
+@media screen and (min-width: 20em) {
+  .sidefigure { float: right; width: 50%; margin: 0px 0px 0.5em 0.5em; }
+}
+
+.caption, figcaption, caption { font-style: italic; font-size: 90%; }
+
+.caption::before, figcaption::before, figcaption > .marker { font-weight: b=
+old; }
+
+.caption, figcaption { counter-increment: figure 1; }
+
+dd > .figure, dd > figure { margin-left: -2em; }
+
+.issue, .note, .example, .advisement, blockquote { padding: 0.5em; border-w=
+idth: 0.5em; border-top-style: initial; border-right-style: initial; border=
+-bottom-style: initial; border-color: initial; border-image: initial; borde=
+r-left-style: solid; break-inside: avoid; }
+
+span.issue, span.note { padding: 0.1em 0.5em 0.15em; border-right-style: so=
+lid; }
+
+.issue, .note, .example, .advisement, blockquote { margin: 1em auto; }
+
+.note > p:first-child, .issue > p:first-child, blockquote > :first-child { =
+margin-top: 0px; }
+
+blockquote > :last-child { margin-bottom: 0px; }
+
+blockquote { border-color: silver; }
+
+.issue { border-color: rgb(224, 82, 82); background: rgb(251, 233, 233); co=
+unter-increment: issue 1; overflow: auto; }
+
+.issue::before, .issue > .marker { color: rgb(174, 30, 30); padding-right: =
+1em; text-transform: uppercase; }
+
+.example { border-color: rgb(224, 203, 82); background: rgb(252, 250, 238);=
+ counter-increment: example 1; overflow: auto; clear: both; }
+
+.example::before, .example > .marker { text-transform: uppercase; color: rg=
+b(130, 112, 23); min-width: 7.5em; display: block; }
+
+.note { border-color: rgb(82, 224, 82); background: rgb(233, 251, 233); ove=
+rflow: auto; }
+
+.note::before, .note > .marker, details.note > summary::before, details.not=
+e > summary > .marker { text-transform: uppercase; display: block; color: r=
+gb(23, 130, 23); }
+
+details.note > summary { color: rgb(23, 130, 23); }
+
+details.note[open] > summary { border-bottom: 1px solid silver; }
+
+.advisement { border-color: orange; border-style: none solid; background: r=
+gb(255, 238, 204); }
+
+strong.advisement { display: block; text-align: center; }
+
+.advisement > .marker { color: rgb(179, 95, 0); }
+
+details { display: block; }
+
+summary { font-weight: bolder; }
+
+.annoying-warning:not(details), details.annoying-warning:not([open]) > summ=
+ary, details.annoying-warning[open] { background: rgba(255, 170, 0, 0.95); =
+color: black; padding: 0.75em 1em; border-width: initial; border-color: red=
+; border-image: initial; border-style: solid none; box-shadow: black 0px 2p=
+x 8px; text-align: center; }
+
+.annoying-warning :last-child { margin-bottom: 0px; }
+
+@media not print {
+  details.annoying-warning[open] { position: fixed; left: 0px; right: 0px; =
+bottom: 2em; z-index: 1000; }
+}
+
+details.annoying-warning:not([open]) > summary { text-align: center; }
+
+.def { padding: 0.5em 1em; background: rgb(221, 238, 255); margin: 1.2em 0p=
+x; border-left: 0.5em solid rgb(140, 203, 242); }
+
+th, td { text-align: start; }
+
+table.def { width: 100%; border-spacing: 0px; }
+
+table.def td, table.def th { padding: 0.5em; vertical-align: baseline; bord=
+er-bottom: 1px solid rgb(187, 215, 233); }
+
+table.def > tbody > tr:last-child th, table.def > tbody > tr:last-child td =
+{ border-bottom: 0px; }
+
+table.def th { font-style: italic; font-weight: normal; padding-left: 1em; =
+width: 3em; }
+
+table td.pre { white-space: pre-wrap; }
+
+table.def td.footnote { padding-top: 0.6em; }
+
+table.def td.footnote::before { content: " "; display: block; height: 0.6em=
+; width: 4em; border-top: thin solid; }
+
+table { overflow-wrap: normal; hyphens: manual; }
+
+table.data, table.index { margin: 1em auto; border-collapse: collapse; bord=
+er: hidden; width: 100%; }
+
+table.data caption, table.index caption { max-width: 50em; margin: 0px auto=
+ 1em; }
+
+table.data td, table.data th, table.index td, table.index th { padding: 0.5=
+em 1em; border-width: 1px; border-color: silver; border-top-style: solid; }
+
+table.data thead td:empty { padding: 0px; border: 0px; }
+
+table.data thead, table.index thead, table.data tbody, table.index tbody { =
+border-bottom: 2px solid; }
+
+table.data colgroup, table.index colgroup { border-left: 2px solid; }
+
+table.data tbody th:first-child, table.index tbody th:first-child { border-=
+right: 2px solid; border-top: 1px solid silver; padding-right: 1em; }
+
+table.data th[colspan], table.data td[colspan] { text-align: center; }
+
+table.complex.data th, table.complex.data td { border: 1px solid silver; te=
+xt-align: center; }
+
+table.data.longlastcol td:last-child, table.data td.long { vertical-align: =
+baseline; text-align: left; }
+
+table.data img { vertical-align: middle; }
+
+.toc a { padding-top: 0.1rem; display: block; color: black; border-color: r=
+gb(57, 128, 181); }
+
+.toc a:visited { border-color: rgb(5, 69, 114); }
+
+.toc a:not(:focus):not(:hover) { border-bottom-color: transparent; }
+
+.toc, .toc ol, .toc ul, .toc li { list-style: none; margin: 0px; padding: 0=
+px; line-height: 1.1rem; }
+
+.toc > li { font-weight: bold; }
+
+.toc > li li { font-weight: normal; }
+
+.toc > li li li { font-size: 95%; }
+
+.toc > li li li li { font-size: 90%; }
+
+.toc > li li li li li { font-size: 85%; }
+
+.toc > li { margin: 1.5rem 0px; }
+
+.toc > li li { margin: 0.3rem 0px; }
+
+.toc > li li li { margin-left: 2rem; }
+
+.toc .secno { float: left; width: 4rem; white-space: nowrap; }
+
+.toc > li li li li .secno { font-size: 85%; }
+
+.toc > li li li li li .secno { font-size: 100%; }
+
+:not(li) > .toc { margin-left: 5rem; }
+
+.toc .secno { margin-left: -5rem; }
+
+.toc > li li li .secno { margin-left: -7rem; }
+
+.toc > li li li li .secno { margin-left: -9rem; }
+
+.toc > li li li li li .secno { margin-left: -11rem; }
+
+@media (max-width: 30em) {
+  :not(li) > .toc { margin-left: 4rem; }
+  .toc .secno { margin-left: -4rem; }
+  .toc > li li li { margin-left: 1rem; }
+  .toc > li li li .secno { margin-left: -5rem; }
+  .toc > li li li li .secno { margin-left: -6rem; }
+  .toc > li li li li li .secno { margin-left: -7rem; }
+}
+
+@media screen and (min-width: 78em) {
+  body:not(.toc-inline) :not(li) > .toc { margin-left: 4rem; }
+  body:not(.toc-inline) .toc .secno { margin-left: -4rem; }
+  body:not(.toc-inline) .toc > li li li { margin-left: 1rem; }
+  body:not(.toc-inline) .toc > li li li .secno { margin-left: -5rem; }
+  body:not(.toc-inline) .toc > li li li li .secno { margin-left: -6rem; }
+  body:not(.toc-inline) .toc > li li li li li .secno { margin-left: -7rem; =
+}
+}
+
+body.toc-sidebar #toc :not(li) > .toc { margin-left: 4rem; }
+
+body.toc-sidebar #toc .toc .secno { margin-left: -4rem; }
+
+body.toc-sidebar #toc .toc > li li li { margin-left: 1rem; }
+
+body.toc-sidebar #toc .toc > li li li .secno { margin-left: -5rem; }
+
+body.toc-sidebar #toc .toc > li li li li .secno { margin-left: -6rem; }
+
+body.toc-sidebar #toc .toc > li li li li li .secno { margin-left: -7rem; }
+
+.toc li { clear: both; }
+
+ul.index { margin-left: 0px; columns: 15em auto; }
+
+ul.index li { margin-left: 0px; list-style: none; break-inside: avoid; }
+
+ul.index li li { margin-left: 1em; }
+
+ul.index dl { margin-top: 0px; }
+
+ul.index dt { margin: 0.2em 0px 0.2em 20px; }
+
+ul.index dd { margin: 0.2em 0px 0.2em 40px; }
+
+ul.index ul, ul.index dl { font-size: smaller; }
+
+@media not print {
+  ul.index li span { white-space: nowrap; color: transparent; }
+  ul.index li a:hover + span, ul.index li a:focus + span { color: rgb(112, =
+112, 112); }
+}
+
+table.index { font-size: small; border-collapse: collapse; border-spacing: =
+0px; text-align: left; margin: 1em 0px; }
+
+table.index td, table.index th { padding: 0.4em; }
+
+table.index tr:hover td:not([rowspan]), table.index tr:hover th:not([rowspa=
+n]) { background: rgb(247, 248, 249); }
+
+table.index th:first-child a { font-weight: bold; }
+
+a#outdated-note { color: white; }
+
+a#outdated-note:hover { background: transparent; }
+
+.outdated-spec { background-color: rgba(0, 0, 0, 0.5); }
+
+.outdated-warning { position: fixed; bottom: 50%; left: 0px; right: 0px; ma=
+rgin: 0px auto; width: 50%; background: maroon; color: white; border-radius=
+: 1em; box-shadow: red 0px 0px 1em; padding: 2em; text-align: center; z-ind=
+ex: 2; }
+
+.edited-rec-warning { background: darkorange; box-shadow: 0px 0px 1em; }
+
+.outdated-warning button { position: absolute; top: 0px; right: 0px; margin=
+: 0px; border: 0px; padding: 0.25em 0.5em; background: transparent; color: =
+white; font: 1em sans-serif; text-align: center; }
+
+.outdated-warning span { display: block; }
+
+.outdated-collapsed { bottom: 0px; border-radius: 0px; width: 100%; padding=
+: 0px; }
+
+@media print {
+  html { margin: 0px; }
+  body { font-family: serif; }
+  .outdated-warning { position: absolute; border-style: solid; border-color=
+: red; }
+  .outdated-warning input { display: none; }
+}
+
+@page { margin: 1.5cm 1.1cm; }
+
+.hide { display: none; }
+
+.figure .caption, .sidefigure .caption, figcaption { max-width: 50rem; marg=
+in-left: auto; margin-right: auto; }
+
+.overlarge > table { max-width: 50em; margin-left: auto; margin-right: auto=
+; }
+
+@media (min-width: 55em) {
+  .overlarge { margin-left: calc((13px + 26.5rem) - 50vw); margin-right: ca=
+lc((13px + 26.5rem) - 50vw); max-width: none; }
+}
+
+@media screen and (min-width: 78em) {
+  body:not(.toc-inline) .overlarge { margin-left: calc(40em - 50vw) !import=
+ant; margin-right: calc(40em - 50vw) !important; }
+}
+
+@media screen and (min-width: 90em) {
+  body:not(.toc-inline) .overlarge { margin-left: 0px !important; margin-ri=
+ght: calc(84.5em - 100vw) !important; }
+}
+
+@media not print {
+  .overlarge { overflow-x: auto; }
+}
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.w3.org/StyleSheets/TR/2016/W3C-UD
+
+@charset "utf-8";
+
+@import url("base.css");
+
+body { background-image: url("https://www.w3.org/StyleSheets/TR/2016/logos/=
+UD"); background-color: transparent; }
+
+html { background: url("https://www.w3.org/StyleSheets/TR/2016/logos/UD-wat=
+ermark") white; }
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.w3.org/StyleSheets/TR/2016/logos/UD
+
+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
+rEPacobenwAAAABJRU5ErkJggg==
+
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.w3.org/StyleSheets/TR/2016/logos/UD-watermark
+
+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
+
+------MultipartBoundary--8m8oz6VxfjURFUsRp6GOc88mQsuijZm7XKzYsT5D23------
